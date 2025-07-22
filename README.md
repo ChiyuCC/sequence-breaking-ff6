@@ -160,10 +160,14 @@ Mt. Koltz morphs
 ### Raiding Figaro Castle
 
 -   Go to Figaro castle with Locke's team
--   Enter Figaro engine room
-    -   Loot treasures
-    -   Encounter all enemies at least once
-    -   Steal from them and morph any items you wish
+-   Because of the Door Timer Glitch, we can actually bypass the guy who guards the engine room
+    -   The timing may require some practice though
+-   On more than one occassion (to put it mildly), we're going to visit places a lot earlier than we're supposed to
+    -   One of these is, obviously, the Figaro Castle basement / engine room
+-   If you're aiming to get a complete Veldt - and complete Gau - as soon as possible, I recommend meeting all monster formations every time you enter a new area
+    -   This will also allow you to more easily steal/morph from the monsters without having to return to a location that may be hard to return to
+-   To see which enemy formations you can encounter in every location, I highly recommend [Djibriel's guide](https://gamefaqs.gamespot.com/ps/562865-final-fantasy-vi/faqs/39863)
+-   Since we have both Locke and Ragnarok with us, a lot of these late game monsters have great items we can steal and morph off of them right now
 -   I especially recommend morphing a couple of Dantes into Thunder Shields, as these are great defensive equipment
     -   Additionally, they will allow you to learn Bolt 2 _very_ early in the game
 
@@ -754,11 +758,8 @@ Magitek Factory drops
 ### Escape from the Magitek Factory
 
 -   Since we're going for a 100% file with all monsters encounted, we want to make sure to encounter all formations in the mine cart sequence
--   Here is a useful quote from [Djibriel's guide](https://gamefaqs.gamespot.com/ps/562865-final-fantasy-vi/faqs/39863):
-
-> Note: If you want to go for a perfect game, it's nice if you fight one more battle before entering the next room WITH CELES AS YOUR LEADER.
-> This is important.
-
+-   If you're struggling with this, I recommend the [Mag Roader Guide](https://gamefaqs.gamespot.com/snes/554041-final-fantasy-iii/faqs/38658) by Novalia_Spirit on GameFAQs
+    -   From my experimenting, I can tell that the [moogle placeholders](https://finalfantasy.fandom.com/wiki/Ten_Moogles) go by the same rules as their "human" counterparts (so Cyan = Kupek, etc.)
 -   Enter the tube room and make a save state!
 -   You have to be really fast to hit the switch: if one of the espers in the tubes despawns thanks to the Door Timer Glitch, the game will freeze
 -   Luckily you can also just cycle between your parties to make them all appear again
