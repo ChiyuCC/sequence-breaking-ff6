@@ -99,22 +99,6 @@ Narshe Mines treasures
 -   [ ] Sleeping Bag in WoB / Elixir in WoR
 -   [ ] Rune Blade in WoB / Ribbon in WoR
 
-Narshe Mines monsters
-
--   [ ] Were-Rat, Were-Rat, Were-Rat (10/16)
--   [ ] Were-Rat, Repo Man (6/16)
--   [ ] Wild Rat, 1st Class, 1st Class, Wild Rat, Wild Rat (6/16)
--   [ ] 1st Class, 1st Class, 1st Class (5/16)
--   [ ] 1st Class, Wild Rat (5/16)
--   [ ] Repo Man, Vaporite (6/16)
--   [ ] Vaporite, Vaporite (5/16)
--   [ ] Were-Rat, Were-Rat (5/16)
-
-Checkpoint monsters
-
--   [ ] Dark Side, Dark Side (3/4)
--   [ ] Dark Side, Spectre, Rinn, Rinn, Rinn (1/4)
-
 Narshe Mines steals
 
 -   [ ] Ice Rod from Spectre
@@ -197,28 +181,6 @@ Figaro Castle basement treasures
 -   [ ] Gravity Rod
 -   [ ] X-Potion
 -   [ ] Regal Crown
-
-Figaro Castle basement monsters
-(Cave of Figaro)
-
--   [ ] NeckHunter, Cruller, Humpty, Humpty (10/16)
--   [ ] Dante (6/16)
-        (Recovery Spring)
--   [ ] Humpty, Humpty, Humpty, Humpty (6/16)
--   [ ] NeckHunter, NeckHunter (5/16)
--   [ ] Dante (5/16)
-        (Corridor)
--   [ ] NeckHunter, NeckHunter (6/16)
--   [ ] Humpty, Humpty, Humpty (5/16)
--   [ ] Cruller, Humpty, Humpty (5/16)
-        (Figaro Castle)
--   [ ] Humpty, Humpty, Humpty, Humpty (6/16)
--   [ ] NeckHunter, NeckHunter (5/16)
--   [ ] Dante (5/16)
-        (Engine Room)
--   [ ] Humpty, Humpty, Humpty, Humpty (6/16)
--   [ ] Drop, Drop, Drop (5/16)
--   [ ] Dante (5/16)
 
 Figaro Castle basement steals
 
@@ -397,21 +359,6 @@ Mt. Zozo treasures
 -   [ ] Red Cap
 -   [ ] Thunder Shld
 
-Mt. Zozo monsters
-(Caves)
-
--   [ ] Ursus, Punisher (6/16)
--   [ ] Borras (5/16)
--   [ ] Ursus (5/16)
-        (Bridge slope)
--   [ ] Punisher, Scrapper, Punisher (6/16)
--   [ ] Luridan, Luridan, Luridan, Luridan, Luridan, Luridan (5/16)
--   [ ] Borras (5/16)
-        (Slope before Cyan's settlement)
--   [ ] Luridan, Luridan, Luridan, Luridan, Luridan, Luridan (6/16)
--   [ ] Luridan, Luridan, Luridan (5/16)
--   [ ] Borras, Ursus, Scrapper (5/16)
-
 Mt. Zozo steals
 
 -   [ ] Sneak Ring from Ursus
@@ -459,17 +406,6 @@ Mt. Zozo morphs
     -   So you might want to save a few Thunder and/or Fire Shields for that occassion as well
     -   You may want to keep some Thunder Shields and/or Flame Shields in stock in case you need to do a "full" Airship Glitch across the IAF and Floating Continent
     -   Remember, you can freely use these items since they will be restored after a gameover anyway
-
-Thamasa monsters
-(grasslands)
-
--   [ ] Cephaler, Baserkvor (6/16)
--   [ ] Baskervor (5/16)
--   [ ] Baskervor, Baskervor (5/16)
-        (forest)
--   [ ] Cephaler, Cephaler, Cephaler (6/16)
--   [ ] Chimera (5/16)
--   [ ] Chimera, Cephaler, Cephaler (5/16)
 
 Thamasa steals
 
@@ -602,11 +538,6 @@ Imperial Base treasures
 -   [ ] Elixir - hidden in the lower right corner
 -   [ ] Flame Sabre - hidden in the stove
 
-Imperial Base monsters
-
--   [ ] (Walking soldiers) Commando, Commando, Commando, Commando
--   [ ] (Armored soldiers) Mega Armor, ProtoArmor
-
 Imperial Base steals
 
 -   [ ] Tent / Mythril Vest from Commando
@@ -720,25 +651,6 @@ Cave to the Sealed Gate treasures
 -   [ ] Magicite x3
 -   [ ] Atma Weapon
 
-Cave to the Sealed Gate monsters
-(First cave)
-
--   [ ] Lich, Lich, Lich (6/16)
--   [ ] Apparite, Apparite (5/16)
--   [ ] Lich, Apparite, Coelecite (5/16)
-        (Basement 1)
--   [ ] Ing, Ing, Ing (6/16)
--   [ ] Apparite, Apparite (5/16)
--   [ ] Apparite, Apparite, Lich, Lich (5/16)
-        (Basement 2)
--   [ ] Coelecite, Coelecite, Coelecite (6/16)
--   [ ] Zombone (5/16)
--   [ ] Zombone, Ing, Ing (5/16)
-        (Basement 3)
--   [ ] Ing, Ing, Ing (6/16)
--   [ ] Zombone, Zombone (5/16)
--   [ ] Zombone, Ing, Ing (5/16)
-
 Sealed Cave steals
 
 -   [ ] Poison Rod from Lich
@@ -761,13 +673,6 @@ Sealed Cave steals
 Albrook treasures
 
 -   [ ] Elixir - in clock, armor shop/cafe
-
-Vector monsters
-
--   [ ] (Walking soldiers) Garm, Garm, Commando, Commando (3/4)
--   [ ] (Walking soldiers) Garm, Garm, Commando (1/4)
--   [ ] (Armored soldiers) ProtoArmor, Pipsqueak, Pipsqueak (3/4)
--   [ ] (Armored soldiers) ProtoArmor, ProtoArmor (1/4)
 
 Southern Continent steals
 
@@ -892,23 +797,9 @@ Magitek Factory espers
 -   [ ] Carbunkl
 -   [ ] Bismark
 
-Mine Cart Ride monsters
-
--   [ ] One purple Mag Roader, one red Mag Roader
--   [ ] One purple Mag Roader
--   [ ] Two purple Mag Roaders
--   [ ] Four red Mag Roaders
-
 Mine Cart Ride steals
 
 -   [ ] Tempest from Number 128
-
-Vector escape monsters
-
--   [ ] Chaser, Trapper, Trapper, Trapper (5/16)
--   [ ] Commando, Commando, Commando, Commando (5/16)
--   [ ] Chaser, Pipsqueak, Pipsqueak, Pipsqueak (5/16)
--   [ ] Pipsqueak, Pipsqueak, Pipsqueak, Pipsqueak (1/16)
 
 ---
 
@@ -1010,11 +901,6 @@ Tzen espers
 -   Go to Opera house, proceed as normal until Setzer joins
 -   Be sure to leave at least one rat available; they are needed for a future glitch
     -   Nevertheless, make sure you encounter both enemy formations
-
-Opera House monsters
-
--   [ ] Vermin, Sewer Rat, Sewer Rat (3/4)
--   [ ] Sewer Rat, Vermin, Sewer Rat, Sewer Rat, Vermin (1/4)
 
 ---
 
@@ -1329,17 +1215,6 @@ Imperial Camp steals
 -   All three parties should be near the front gate of Narshe now
 
 ![FF6](./screenshots/three-party-mode-2.png)
-
-Narshe monsters:
-(Green Soldiers)
-
--   [ ] Trooper, Trooper, Trooper, Trooper (3/4)
--   [ ] Bounty Man, Trooper, Trooper (1/4)
-        (Brown Soldiers)
--   [ ] Fidor, Trooper (3/4)
--   [ ] HeavyArmor, Trooper, Trooper (1/4)
-        (Racing Brown Soldier)
--   [ ] Rider (always)
 
 ---
 
@@ -1858,12 +1733,6 @@ Collapsing House treasures
 -   [ ] Magicite
 -   [ ] Pearl Rod
 -   [ ] Tincture
-
-Collapsing House monsters
-
--   [ ] Scorpion, Scorpion, Scorpion (10/16)
--   [ ] HermitCrab, HermitCrab, Pm Stalker (6/16)
--   [ ] Pm Stalker x4 (monster-in-a-box)
 
 ---
 
