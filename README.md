@@ -1,3 +1,111 @@
+# A semi-casual 100% New Game+ walkthrough
+
+-   Hello and welcome!
+-   This walkthrough will take you across Final Fantasy VI in a new and unexpected way, utilizing a number of well known and lesser known glitches as well as some clever routing
+-   Let me start off by saying that this is _not_ a guide meant for speedrunners
+    -   In fact, playing the game in this order will probably take _longer_ than a regular game
+-   It is mostly meant to be a new, fun and mostly different way to play through the events of Final Fantasy VI using "New Game+" mode (more on this later)
+    -   Certain parts of the game will become much more difficult, while others will be trivialized
+    -   And although we are doing things in a vastly different sequence, we will not skip any content, hence the "100%"
+-   Of course, you do not have to copy this walkthrough 1-on-1
+    -   Feel free to take some inspiration from it if you're planning to do an unorthodox run of FF6 yourself sometime
+-   One of our objectives is to become as powerful as possible _before_ the Floating Continent
+    -   Not necessarily in levels, but more so in items, equipment, espers, etc.
+-   As part of our journey, we're going to visit a number of World of Ruin locations before we're officially able to go to the World of Ruin
+    -   It is in fact "relatively" easy to go to the WoR early with a party of Terra, Locke, Edgar, Sabin, Celes, Cyan and Gau
+    -   However, we're going to take a very specific route so we can take Setzer, Mog, Strago, Relm and Shadow along with us as well
+-   And for good reasons:
+    -   With Setzer, we can get early access to Darril's Tomb
+    -   With Mog, we can equip the Moogle Charm to raid otherwise difficult dungeons such as the Fanatics Tower and Kefka's Tower
+    -   With Strago/Relm, we can get early access to Ebot's Rock
+    -   ... and Shadow is just cool
+-   Additionally, this also means we don't have to hold back on leveling any party members while in the early WoR
+    -   Otherwise, the remaining party members would join at inflated levels and would miss out on esper bonuses
+-   It is worth mentioning that there are some bits and pieces that could be useful if you're going for a low level game (LLG)
+    -   For instance, we're taking several of the generic moogles with us to the mine cart ride, so you can avoid getting any forced experience with any permanent party members
+-   Another major part of this run is that we're going to escape the Narshe mines with the 10 generic moogles during the sequence where you have to defend Terra
+    -   We're going to use these moogles to grab a lot of items from the WoB before we even properly begin the game
+
+---
+
+## Major glitches overview
+
+-   As is obvious from the introduction, there are a number of glitches needed to perform huge sequence breaks like these
+-   Most of the setups I'm explaining in this guide are applications or expansions of other documented glitches
+-   To keep the walkthrough section itself somewhat streamlined, I'll discuss the most used glitches here, with the sources provided
+-   So, before you proceed with my walkthrough, I suggest you familiarize yourself with at least these glitches:
+
+1. The Door Timer Glitch
+    - You absolutely need a game with the "Door Timer Glitch" active, otherwise known as a "New Game+"
+    - This glitch is incredibly useful in its own right; granting early access to espers like Ragnarok and dungeons like Figaro Castle basement
+    - But more importantly, without this glitch, a number of other glitches like the party warping antics and the easy Airship Glitch won't work either
+    - More information about this glitch can be found in [this guide by Neerrm](https://docs.google.com/document/d/16D7QRh_G4MydPuYjxhnGaXpfrKeScfNl-Z_W4jIfrwY/edit?tab=t.0)
+2. Teleporting when in three party mode
+    - I'm not really sure if there's an actual name for this glitch, but it involves warping your characters across a map while you're in the "three party mode"
+        - Most notably the Kefka at Narshe sequence, but it can also be done with the 10 moogles a little while earlier
+    - This can be done by cycling through your teams, and at the exact moment the Door Timer Glitch would click, you change the lead of your current party
+    - When you cycle back to this party, you'll find that they are now at the (not properly initialized) coordinates of the new lead character
+    - This can be done to escape the Kefka at Narshe sequence, which is another trick we'll use several times during this run
+    - I'm probably not doing a great job at explaining this, so I recommend you watch please watch [this part](https://youtu.be/_fx4p2VSq8k?t=393) of Neerm's YouTube video instead
+3. Transfering coordinates between saves
+    - This is another way to warp your character's sprite to another location
+    - While it does require you to be in a "three party mode", it does not rely on the Door Timer Glitch
+    - When you are in "three party mode", and use one of your parties to save your game, it will save the X- and Y- coordinates of your other two parties
+    - However, when you select another save file (even without saving over it), and then reset the game, it will load the coordinates of that save file in your memory, even if you continue with your initial save file
+    - This effectively means you can arbitrarily store coordinates in one save game, and then load those coordinates in another save game where your parties may not even be on the same map
+    - There are a number of setups in this walkthrough that take advantage of this
+        - For example, saving your coordinates when one of your parties is standing in a specific spot in Narshe, and then loading those coordinates in another save game where that same party is standing in Zozo, you can warp yourself past the door that requires the Rust-Rid, thus granting early access to Mt. Zozo
+        - I actually made [a short demonstration video](https://www.youtube.com/watch?v=5B9CZ0mjz8Y) about this a year ago, just so you know what I mean
+4. The (faster) Airship Glitch
+    - This is a classic: the original version requires you to save _anywhere_, then play normally until the Floating Continent, jump back onto the airship when you get the chance, return to the Floating Continent and then die
+        - Et voila, you'll revert to your last save, with one chance to use the airship to fly anywhere you want!
+    - This is hardly practical, but thanks to the Door Timer Glitch there's a much faster way
+    - As demonstrated in Neerm's video around [this part](https://youtu.be/_fx4p2VSq8k?t=755), when you use the Door Timer Glitch to interrupt the tent animation, you can immediately trigger the Floating Continent rising cutscene
+    - And to make this trick even faster and more applicable: when you're in three party mode, you can simply have one of your parties fly around with the airship (after activating the said cutscene), and then have another of your parties die
+        - The game will still think you're flying, thus, if you die, you will load your last save... with an airship available!
+        - This way you won't even need to play through the IAF and Floating Continent, gladly
+    - In this run, we're going to use this fast version of the Airship Glitch to do most of our inter-continental traveling before we officially acquire the Blackjack or the Falcon
+        - Even with the warping shenanigans to escape Kefka at Narshe (since we need "three party mode"), this should only take ~10 minutes if you know what you're doing
+
+-   Those were the most important glitches that will all be used extensively during this run
+-   I'll also list a few of the minor glitches that we're going to use on a few occassions as well, just so you know what cool things to expect
+
+5. Rats in the Opera House
+    - It is a well known, classic glitch that, if you die against rats in the Opera House in the World of Ruin, you will return to the World of Balance
+    - But there are a number of other applications that involve these rats, or, the timer that plays during the Opera House sequence
+    - You see, triggering the "Kefka at Narshe" sequence removes the Sprint Shoes functionality, which can be a bit annoying, and even a problem in some parts of this run where timing is of the essence
+        - Normally you'd get your ability to sprint back after defeating Kefka, obviously, but in this run we're doing _a lot_ between triggering this sequence and ending this sequence
+    - The reason I'm bringing this up here is that dying against the rats will in fact restore your ability to sprint, even while the game still thinks you're in the "Kefka at Narshe" sequence
+    - Additionally, the timer at the Opera House that's active when you're fighting the rats can also be used to overwrite - and permanently remove - the timer of the Collapsing House in Tzen
+    - This will give us the chance to explore the Collapsing House way earlier in the game, at our own pace, without needing to recruit Sabin to finish the scene
+6. Return of the Floating Continent
+    - By altering the order in which we view certain cutscenes in the World of Balance, we can make it so that the Floating Continent will rise _again_ right after legitimately acquiring the Falcon in the World of Ruin
+        - I have seen some reports of people who had this happen to them by accident, but I have in fact figured out how we can activate this on purpose
+    - First of all, seeing this cutscene by itself will this allow us an easy way to briefly return to the World of Balance for some other tricks
+        - I.e. recruiting Locke and Cyan early, without having to visit the Phoenix Cave or Mt. Zozo respectively
+    - Secondly, it will make the Floating Continent permanently available as an option to fly to, all the way until the end of the game
+        - Be ware though: there are some risks that come with this as well, such as softlocking yourself or permanently losing Shadow
+        - This second part is more of a novelty than that it is actually useful, but it's a cool feature to mention anyway
+    - More on this glitch when we actually get there, which is pretty much near the end of this run actually
+
+---
+
+## What version should I play?
+
+-   Before we continue, it is worth mentioning that this guide is written for the SNES version of FFVI specifically
+    -   I worked out the run first on an emulator, and then played it properly from beginning to end on my SNES Classic
+    -   The original SNES cartridge, or the emulated version in the Wii Virtual Console, should be fine too
+-   Whatever hardware you end up choosing, be sure that it has save states available!
+    -   You're going to need them... a lot
+-   I have in fact tried this on both the GBA and iOS versions, and because saving is handled differently in those games, I wasn't able to start a game with the Door Timer Glitch active... this pretty much ending the run right at the start
+    -   And although I haven't tested it, I'm pretty sure it won't work in the Pixel Remaster version either
+-   If you somehow found a way to make this work on the GBA version in particular, I'd love to hear it!
+    -   Trying out all of these sequence breaks on a version with even more content is something that would absolutely make me ecstatic
+
+---
+
+## The Walkthrough
+
 ### New Beginnings
 
 -   Start a new game with the "Door Timer Glitch" active
