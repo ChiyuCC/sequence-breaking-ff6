@@ -21,10 +21,10 @@
     -   ... and Shadow is just cool
 -   Additionally, this also means we don't have to hold back on leveling any party members while in the early WoR
     -   Otherwise, the remaining party members would join at inflated levels and would miss out on esper bonuses
--   It is worth mentioning that there are some bits and pieces that could be useful if you're going for a low level game (LLG)
-    -   For instance, we're taking several of the generic moogles with us to the mine cart ride, so you can avoid getting any forced experience with any permanent party members
 -   Another major part of this run is that we're going to escape the Narshe mines with the 10 generic moogles during the sequence where you have to defend Terra
     -   We're going to use these moogles to grab a lot of items from the WoB before we even properly begin the game
+-   It is worth mentioning that there are some bits and pieces that could be useful if you're going for a low level game (LLG)
+    -   For instance, we're taking several of the generic moogles with us to the mine cart ride, so you can avoid getting any forced experience with any permanent party members
 
 ---
 
@@ -72,19 +72,23 @@
 
 5. Rats in the Opera House
     - It is a well known, classic glitch that, if you die against rats in the Opera House in the World of Ruin, you will return to the World of Balance
-    - But there are a number of other applications that involve these rats, or, the timer that plays during the Opera House sequence
+        - Contrary to popular opinion, this glitch is not _entirely_ fixed in the US version of the game
+        - While any leftover rats will automatically be removed as soon as you complete Darill's Tomb and acquire the Falcon, if you somehow manage to reach the Opera House before then... you'll still find any rats you left behind, which will allow you to die and be transported back to the World of Balance
+        - Of course, reaching the Opera House _before_ getting the Falcon is not something you'll be able to do without exploiting other glitches like the Airship Glitch
+    - However, there are a couple of other tricks that involve these rats, or, the timer that plays during the Opera House sequence
     - You see, triggering the "Kefka at Narshe" sequence removes the Sprint Shoes functionality, which can be a bit annoying, and even a problem in some parts of this run where timing is of the essence
         - Normally you'd get your ability to sprint back after defeating Kefka, obviously, but in this run we're doing _a lot_ between triggering this sequence and ending this sequence
     - The reason I'm bringing this up here is that dying against the rats will in fact restore your ability to sprint, even while the game still thinks you're in the "Kefka at Narshe" sequence
     - Additionally, the timer at the Opera House that's active when you're fighting the rats can also be used to overwrite - and permanently remove - the timer of the Collapsing House in Tzen
     - This will give us the chance to explore the Collapsing House way earlier in the game, at our own pace, without needing to recruit Sabin to finish the scene
+        - This trick will be covered in greater detail when we actually get there in the walkthrough
 6. Return of the Floating Continent
     - By altering the order in which we view certain cutscenes in the World of Balance, we can make it so that the Floating Continent will rise _again_ right after legitimately acquiring the Falcon in the World of Ruin
         - I have seen some reports of people who had this happen to them by accident, but I have in fact figured out how we can activate this on purpose
     - First of all, seeing this cutscene by itself will this allow us an easy way to briefly return to the World of Balance for some other tricks
         - I.e. recruiting Locke and Cyan early, without having to visit the Phoenix Cave or Mt. Zozo respectively
     - Secondly, it will make the Floating Continent permanently available as an option to fly to, all the way until the end of the game
-        - Be ware though: there are some risks that come with this as well, such as softlocking yourself or permanently losing Shadow
+        - Beware though: there are some risks that come with this as well, such as softlocking yourself or permanently losing Shadow
         - This second part is more of a novelty than that it is actually useful, but it's a cool feature to mention anyway
     - More on this glitch when we actually get there, which is pretty much near the end of this run actually
 
@@ -124,7 +128,7 @@
 -   More items can be bought later when you have Locke for some easy money making (steal + sell stuff)
 -   For this run, I recommend you take the _esper_ Ragnarok, rather than the _sword_ Ragnarok
     -   While "metamorph" comes way too late in a regular game to be really useful, it will serve us really well in this playthrough
-    -   There are several enemies even in the World of Balance with great morphed items, like the elemental shields and crystal equipment
+    -   There are several enemies even in the World of Balance with great morphed items, like the Marvel Shoes, elemental shields and crystal equipment
 
 ![FF6](./screenshots/new-beginnings-2.png)
 ![FF6](./screenshots/new-beginnings-3.png)
@@ -154,7 +158,11 @@ Narshe espers
 -   Fall in the pit, play the part with the moogles
 -   After being rescued by Locke, head back into Narshe
 -   Trigger the conversation with Banon
--   Make sure you divide your party members so that every team can set the coordinates for one of the moogle teams
+-   You can now divide your party members across three teams, but it doesn't matter a whole lot who you put where
+-   What you need to know is that we're going to use several characters here to set coordinates for one of the moogle teams back in the mines
+    -   For Locke's team you'll need to set coordinates on Locke, Kupek or Kumama
+    -   For Mog's team you'll need to set coordinates on Kuku or Kutan
+    -   For Kushu's team you'll need to set coordinates on Kuru; he's the only one who's also an option in the Battle at Narshe
 -   My team here is:
     -   Terra, Kuru
     -   Locke, Kupek
@@ -172,6 +180,7 @@ Narshe espers
     -   I used Kumama's position to help the Locke, Kupek, Kupop, Kumama team escape
     -   I used Kutan's position to help the Mog, Kuku, Kutan and Kupan team escape
     -   I used Kuru's position to help the Kushu, Kurin, Kuru and Kamog team escape
+-   Assuming that Kumama and Kutan are on the same team, you'd have to switch leaders here once to save the coordinates for them both
 -   Swap to Locke, leave the room and die
 -   You should now continue your game as lone Terra
 
@@ -183,12 +192,13 @@ Narshe espers
 
 -   Trigger the moogle fight again, and pause buffer until you can teleport all three of the moogle teams outside of this cave
     -   Similar to how we escaped the Kefka at Narshe battlefield earlier
+    -   Feel free to take care of all the walking enemies beforehand
 -   You can now leave the Narshe Mines
 
 ![FF6](./screenshots/escaping-narshe-mines-1.png)
 ![FF6](./screenshots/escaping-narshe-mines-2.png)
 
--   On your way, steal Ice Rods etc.
+-   On your way, you could have Locke steal some Ice Rods from the elusive Spectre enemy at the Checkpoint
     -   If you plan on getting Ifrit/Shiva early, you can break 2~3 Ice Rods to defeat Ifrit easily
     -   Triggering the Checkpoint dialogue without Edgar/Banon won't crash the game
 -   Be careful on your way out: Kupop might leave if you don't skip the event directly in front of the cave
@@ -214,6 +224,7 @@ Narshe Mines steals
 Narshe Mines morphs
 
 -   [ ] Dried Meat from Were-Rat
+        There are a lot of enemies you can get this item from, but getting it early saves you a trip to Mobliz if you want to recruit Gau later on
 
 ---
 
@@ -315,6 +326,7 @@ Figaro Castle basement morphs
 
 -   Normally, when you are in three party mode and enter a location, the "exit point" for all of your parties will be outside the last entered location
 -   There are some exceptions though, like the Cave to South Figaro: this always overwrites the exit point
+    -   The same applies for Barren Falls, Phantom Forest, the Imperial Base near the mountains... in other words, locations that have more than one exit
 -   For that reason, you should put the party you're not going to use (most likely Kushu's party) on that map
     -   That way you can always revert to the Narshe/Figaro continent if you need to
     -   This is vital for both executing the Airship Glitch and proceeding with the story when we're done raiding
@@ -345,7 +357,7 @@ Figaro Castle basement morphs
 
 Dragon's Neck Cabin
 
--   [ ] Hero Ring, in pot
+-   [ ] Hero Ring - in pot
 
 Kohlingen treasures
 
@@ -365,7 +377,7 @@ Kohlingen area morphs
 ### Raiding Zozo
 
 -   Save (in slot #1) with Mog's party on the world map, near Zozo
--   Keep Kushu's party in Narshe: you need access to Narshe to reset the parties and trigger the airship glitch
+-   Keep Kushu's party in Narshe: you need access to Narshe to reset the parties and trigger the Airship Glitch
 -   Locke's party should also still be in Narshe
 -   Move to the right spot (see screenshot below) for a teleport to Mt. Zozo
     -   Save these coordinates in a different save file (slot #3)
@@ -449,6 +461,7 @@ Zozo morphs
 -   Get the treasures from Mt. Zozo
 -   Encounter and steal from the enemies there
     -   Be careful not to die: use smoke bombs if you have to
+    -   If this is too difficult right now you could also just _meet_ them here and then steal/morph off them at the Veldt later when you're a little stronger
 
 ![FF6](./screenshots/raiding-mt-zozo-1.png)
 ![FF6](./screenshots/raiding-mt-zozo-2.png)
@@ -493,10 +506,10 @@ Mt. Zozo morphs
 
 -   First, save with Locke/Mog on the world map
 -   Switch to Kushu's party
--   Talk to Banon to switch to the three party mode, flee from Narshe, and execute the airship glitch
+-   Talk to Banon to switch to the three party mode, flee from Narshe, and execute the Airship Glitch
 -   You _could_ travel to any location in the WoB, as long as you don't trigger any events that have required characters
--   However, in this state the airship disappears after every use, so you would have to retrigger the airship glitch everytime you want to move
--   This isn't a major problem though, as long as you keep at least one Kushu's party in Narshe
+-   However, in this state the airship disappears after every use, so you would have to retrigger the Airship Glitch everytime you want to move
+-   This isn't a major problem though, as long as you keep at least one party in Narshe
     -   Or the exit to the Cave of South Figaro, which always puts you on the right spot in the world map too regardless of your last entered location
 -   Which party you use for your moogle raiding is up to you: all three have an advantage
     -   Kushu's party has no permanent characters, so you can freely level up as much as you want, for example while farming for drops
@@ -513,7 +526,7 @@ Mt. Zozo morphs
 ![FF6](./screenshots/chimera-flame-shields.png)
 
 -   If you plan on tackling any tough bosses early, you can break Flame Shields against them
-    -   These inflict +/- 3400 damage
+    -   These inflict +/- 3400 damage even when used by a low level, generic moogle
 -   Later in this run we're going to visit the Magitek Factory for a lot of early espers, where we inevitably have to deal with a couple of bosses
     -   So you might want to save a few Thunder and/or Fire Shields for that occassion as well
     -   You may want to keep some Thunder Shields and/or Flame Shields in stock in case you need to do a "full" Airship Glitch across the IAF and Floating Continent
@@ -564,7 +577,7 @@ Thamasa morphs
 -   You _could_ temporarily add Gau to either party with an empty slot, if you desire to learn some magic or get some rages
     -   Apparently Gau's in battle recruitment scene doesn't check if the other party members are actually Kuku (Sabin) and Kupek (Cyan)
     -   Any moogles won't be animated during his this scene, so Gau will be jumping around all by himself, but the scene doesn't crash
--   Take note that both Barren Falls and the Cave to South Figaro act as "hard" reset points for warping
+-   Take note that both Barren Falls and the Phantom Forest act as "hard" reset points for warping
 -   If you want a specific party to return to the Narshe/Figaro area, you should move them to Doma Castle or Mobliz first
 -   Oddly enough, when you take a peek in Mobliz, you'll find that the dogs and pigeons have been replaced with Terra's
     -   They still make their original sound when you try to interact with them, which is even more disturbing
@@ -595,7 +608,8 @@ Thamasa morphs
 -   Now, walk to Narshe with Locke's party
     -   Use Kushu's party waiting at the exit of the Cave to South Figaro to save some time walking, if you wish
 -   For the next segment we'll need to bring either Mog's party or Kushu's party along too
-    -   Kushu is probably better at this point since that party can freely level up, and there are no new dances for Mog at the Southern Continent anyway
+    -   Kushu's party has the advantage that you can freely level up all members without inflating the levels of any permanent party members
+    -   Mog's party, as well as Locke's, has the advantage to use the Ragnarok esper... which might be superior, as long as you keep an eye on their levels
     -   Both parties are one member short though, so that's something to keep in mind
         -   Kuru was lost due to the naming of Gau, and Kutan was lost because she moved to Locke's party
     -   Whatever you do, make sure that **only one** party stays at the Cave to South Figaro, or we'll not be able to move the other party away from here at all
@@ -611,7 +625,7 @@ Thamasa morphs
 ### Raiding the Imperial Base
 
 -   Fly with Locke's party to the Imperial Base on the southern continent and land next to it
-    -   Move Kushu's party to the Imperial Base as well
+    -   Move Mog's or Kushu's party to the Imperial Base as well
 -   Enter the base as Locke and steal some tents from the Commandos
     -   These are quite expensive otherwise
 -   Morph crystal equipment from the ProtoArmors
@@ -621,14 +635,14 @@ Thamasa morphs
 
 ![FF6](./screenshots/raiding-imperial-base-1.png)
 
--   Switch back to Kushu and save in slot #2 on the world map
+-   Switch back to Mog/Kushu and save in slot #2 on the world map
 -   Switch back to Locke and walk back to the Imperial Base
 -   Move Locke into the Imperial Base building, next to the stairs
--   Save in slot #1 with Kushu at the world map
+-   Save in slot #1 with Mog/Kushu at the world map
 -   Select slot #2 and reset the game
 -   Open slot #1, reenter the Imperial Base, switch to Locke
 -   Locke should be in the locked room now, with a lot of treasures to loot
--   After raiding, switch back to Kushu and save in slot #2 on the world map
+-   After raiding, switch back to Mog/Kushu and save in slot #2 on the world map
 -   Select slot #1 this time and reset the game
 -   Load slot #2, reenter the Imperial Base, switch to Locke
 -   Locke should be back outside of the locked room now
@@ -667,44 +681,46 @@ Imperial Base morphs
 ### Bypassing the Imperial Base
 
 -   In this chapter we're going to do some setup to save some coordinates that make it possible to bypass both the Imperial Base _and_ a very dangerous floor inside of the cave to the Sealed Gate
--   For this part we'll assume that you're going with Kushu's party since it doesn't matter if they get exp
-    -   Be sure you have a lot of smoke bombs, and/or fenix downs and/or revivifies for dealing with the enemies
+-   For this part we'll assume that you're going with Mog's party but it also works with Locke's
+    -   In an earlier version of this guide I actually took Kushu's party because they have no restrictions when it comes to leveling up
+    -   But I recently realized that missing out on the ability to use "metamorph" is too big of a downside since there's a great opportunity for this in the upcoming dungeon
+-   Be sure you have a lot of smoke bombs, and/or fenix downs and/or revivifies for dealing with the enemies
     -   And make sure you put all your moogles on the back row since they won't last long otherwise
 -   Save in slot #1 with Locke at the world map
--   Go back into the base and switch to Kushu's party
--   As Kushu, leave the Imperial Base and walk to Albrook
+-   Go back into the base and switch to Mog's party
+-   As Mog, leave the Imperial Base and walk to Albrook
 -   Position yourself at the balcony (see screenshot below)
-    -   Swap party members so that Kurin is in the lead
-    -   This will save Kushu's coordinates at this exact location
+    -   Swap party members so that Kuku is in the lead
+    -   This will save Mog's coordinates at this exact location
 
 ![FF6](./screenshots/bypassing-imperial-base-1.png)
 
--   Now, move Kurin to the front of the damaged house, directly to the left of the cafe (see screenshot below)
-    -   This will save Kurin's coordinates at this exact location
+-   Now, move Kuku to the front of the damaged house, directly to the left of the cafe (see screenshot below)
+    -   This will save Kuku's coordinates at this exact location
 
 ![FF6](./screenshots/bypassing-imperial-base-2.png)
 
 -   Switch to Locke's party
 -   Let Locke save on the overworld in slot #2
-    -   Walk Locke back into the Imperial Base, and switch to Kushu/Kurin's party
--   Now, move Kurin to the top/left side of the roof of the item shop (see screenshot)
-    -   Change your lead back to Kushu
-    -   This will save Kurin's coordinates at this exact location
+    -   Walk Locke back into the Imperial Base, and switch to Mog's/Kuku's party
+-   Now, move Kuku to the top/left side of the roof of the item shop (see screenshot)
+    -   Change your lead back to Mog
+    -   This will save Kuku's coordinates at this exact location
 
 ![FF6](./screenshots/bypassing-imperial-base-3.png)
 
--   Finally, move Kushu near the broken gate at the north side of town (see screenshot)
-    -   This will save Kushu's coordinates at this exact location
+-   Finally, move Mog near the broken gate at the north side of town (see screenshot)
+    -   This will save Mog's coordinates at this exact location
 
 ![FF6](./screenshots/bypassing-imperial-base-4.png)
 
 -   Switch back to Locke's party and leave the Imperial Base once more
 -   Let Locke save on the overworld in slot #3
--   As Kushu, walk back to the Imperial Base
+-   As Mog, walk back to the Imperial Base
 -   Switch back to Locke and save outside in slot #1
 -   Select slot #2 and reset the game
--   Open slot #1, reenter the Imperial Base, switch to Kushu
--   Kushu should be at the other side of the gate!
+-   Open slot #1, reenter the Imperial Base, switch to Mog's party
+-   Mog should be at the other side of the gate!
 
 ![FF6](./screenshots/bypassing-imperial-base-5.png)
 
@@ -714,29 +730,33 @@ Imperial Base morphs
 
 -   Enter the Cave to the Sealed Gate, meeting monsters and opening treasures as you go
 -   However, do NOT approach the bridges on the second basement as you will lose the Door Timer Glitch!
-    -   To be absolutely sure, I recommend you do not move at all once you reach this floor:
+    -   To be safe, I recommend you only move up and down (until you've encountered all formations), but refrain from setting one step to the right
 
 ![FF6](./screenshots/raiding-cave-sealed-gate-1.png)
 
 -   Instead, switch to Locke, go back to the world map and save in slot #1
 -   Select save slot #3, reset the game, and load slot #1
--   When you switch back to Kushu you'll find him close to the top right chest that houses an X-Potion
-    -   Take it, and swap your lead to Kurin, then switch back to Locke's party
+-   When you switch back to Mog you'll find him close to the top right chest that houses an X-Potion
+    -   Take it, and swap your lead to Kuku, then switch back to Locke's party
 
 ![FF6](./screenshots/raiding-cave-sealed-gate-2.png)
 
 -   Save on the overworld in slot #1 and again select slot #3, then reset the game
--   When you switch back to Kurin you'll find him close to the chest with the Coin Toss
+-   When you switch back to Kuku you'll find him close to the chest with the Coin Toss
 
 ![FF6](./screenshots/raiding-cave-sealed-gate-3.png)
 
 -   Once again, save on the overworld in slot #1 and select slot #2, then reset the game
--   You'll now find Kurin at the exit of the room, making it safe to proceed to the rest of the cave
+-   You'll now find Kuku at the exit of the room, making it safe to proceed to the rest of the cave
 
 ![FF6](./screenshots/raiding-cave-sealed-gate-4.png)
 
--   You can challenge the single ninja if you want, but it can be challenging
-    -   If you took Mog's party instead; his instant KO attacks will work wonders against ninjas though
+-   You should definitely challenge the single ninja
+-   They have a great set of items to morph off them, most notably the Striker (for Shadow) and Trump (for Setzer)
+    -   This will ensure that both gentlemen can start with a strong, under normal circumstances WoR-only, weapon immediately when we get them
+-   While this single ninja formation _won't_ appear on the Veldt, I found that thanks to the Door Timer Glitch you can actually repeat this fight!
+    -   So be sure to nag as many Strikers, Trumps, or even Assassins as you want before proceeding
+-   If you took the sword Ragnarok instead of the esper, and still want to challenge the ninja, take note that Mog's instant KO attacks will work wonders against ninjas too
 -   Be sure to encounter at least the double Zombone group if you're going for a complete Veldt, as these won't appear on any of the other floors
     -   You won't be able to return to Basement 3 anytime soon, since we can't skip Basement 2 without losing the precious Door Timer, if we're not in "three party mode"
 
@@ -766,6 +786,12 @@ Cave to the Sealed Gate treasures
 Sealed Cave steals
 
 -   [ ] Poison Rod from Lich
+
+Sealed Cave morphs
+
+-   [ ] Striker from Ninja
+-   [ ] Trump from Ninja
+-   [ ] Assassin from Ninja
 
 ---
 
@@ -806,7 +832,7 @@ Southern Continent drops
 -   I discovered that you CAN actually proceed with Locke and Kutan in separate parties, as long as you take them both into the tube room
     -   If Locke is present on the map, while Celes presses the switch that breaks the esper tubes, the cutscene will still play
 -   However, the disadvantage of this is that you also have to do the railroad segment with Kutan's party (without Locke), making you miss out on stealing the Tempest
-    -   If you switch to Locke's party after the cutscene, Cid's sprite will disappear, making you unable to proceed, causing a soft lock
+    -   If you switch to Locke's party after the cutscene, Cid's sprite will disappear, making you unable to proceed, causing a softlock
 -   With a Locke/Kutan party, you can proceed through the Magitek Factory as you normally would
 -   Make sure to get some Warp Stones if you want to leave the factory midway, as there might be some issues with cranes freezing thanks to the Door Timer Glitch
     -   In particular where you get the Flame Sabre
@@ -890,12 +916,12 @@ Magitek Factory drops
 -   Also be sure to encounter all monsters at this map too, as it's not the "usual" Vector map
 -   Do NOT proceed any further, or you'll trigger the event that recruits Setzer
     -   We want to save this event for a better time - I'll explain when the time comes
-    -   Another advantage is that Kutan has left the party, which means that Celes will stay later on
+    -   Another advantage is that Kutan has left the party, which means that (the real) Celes will stay later on
 
 ![FF6](./screenshots/escaping-magitek-factory-4.png)
 
 -   Since this map doesn't have a proper exit, swap to another party instead
--   Kushu's party should still be on the Southern Continent, while Mog's party should still be waiting at the Cave to South Figaro
+-   One party should still be on the Southern Continent, while the other party should still be waiting at the Cave to South Figaro
 
 Magitek Factory espers
 
@@ -914,7 +940,7 @@ Mine Cart Ride steals
 
 ### Finishing the raid
 
--   Switch to Kushu for a second and walk up to Tzen: you'll find that Sraphim is available for sale
+-   Switch to the other party that's still at the Southern Continent and walk up to Tzen: you'll find that Sraphim is available for sale
     -   Completing the mine cart ride is what seems to unlock Sraphim
 -   Unfortunately, this does not mean that the auction house in Jidoor (where you can get Golem and ZoneSeek) is open too
     -   This will have to wait until you recruit Setzer and finish Maduin's flashback
@@ -925,11 +951,12 @@ Mine Cart Ride steals
 -   We've done all we can to take advantage of the three party mode with the moogles in the WoB
     -   The rest of the WoB will be completed with actual party members
 -   Although it IS possible to raid parts of the WoR too with the moogles, this is unnecessary hard and is better to do when we actually have our actual party members together so we can gain levels etc.
+    -   Plus, exploring the WoR is a lot easier when we have a permanent airship available to us
 -   First, switch to Mog's party at the Cave to South Figaro
 -   Walk to Narshe, head to the save point directly before where Terra fell into the hole
 -   UNEQUIP Mog! and save your game
 -   Head back into the cave to "defend Terra" and defeat the guard leader
-    -   You don't necessarily have to do this with Locke, since he reappears on the Veldt anyway
+    -   You don't necessarily have to do this with Locke, since he reappears on the Veldt anyway (if you want to steal from him)
 -   After the battle with the guard leader is over, Locke will say "Thanks, Moogles! We're in your debt!"
     -   That comment suddenly takes on a whole new meaning, doesn't it?
 
