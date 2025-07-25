@@ -988,7 +988,7 @@ Tzen espers
 -   Do NOT talk to Locke, but Leave Figaro Castle instead
 -   Continuing the story here would submerge Figaro Castle, and we don't want that
     -   After all, we need Figaro Castle for the trick to warp to the WoR
-    -   Figaro Castle would reemerge after the battle at narshe, but this trick can only be done in three party mode
+    -   Figaro Castle would reemerge after the battle at Narshe, but this trick can only be done in three party mode
 
 ---
 
@@ -1027,8 +1027,9 @@ Tzen espers
 ### Opera House
 
 -   In Jidoor, read Setzer's letter to name him
-    -   Be careful not to lose the Door Timer Glitch!
     -   You could have also done this before Zozo, if you so desired
+-   Be careful not to lose the Door Timer Glitch!
+    -   Have a save state ready and try to enter Owzer's Mansion at the exact moment the Door Timer Glitch "clicks"
 -   Buy items from Jidoor if you haven't before
 -   Backtrack to Kohlingen to see Locke's cutscenes involving Rachel if you haven't yet (during the moogle raid)
 
@@ -1036,7 +1037,7 @@ Tzen espers
 
 -   Go to Opera house, proceed as normal until Setzer joins
 -   Be sure to leave at least one rat available; they are needed for a future glitch
-    -   Nevertheless, make sure you encounter both enemy formations
+    -   Nevertheless, make sure you encounter both enemy formations if you're aiming for a complete Veldt
 
 ---
 
@@ -1049,7 +1050,8 @@ Tzen espers
     -   This time, we don't have access to the three party mode, so we'll have to do some more work
     -   Doing the Floating Continent way doesn't work either, since we haven't officially recruited Setzer yet so we can't pilot the ship after returning from it
 -   Instead, the fastest way is to enter the Magitek Factory, leave it, and trigger the scene with Setzer and the cranes
-    -   Since we shouldn't really have Kutan at this point, put her in the lead
+    -   Since we shouldn't really have Kutan at this point, put her in the lead, otherwise the upcoming cutscenes might freeze
+    -   Feel free to break your Flame and Thunder Shields against the cranes, since none of this will be saved anyway
 -   After the Maduin flashback, you can fly back to Narshe, enter three party mode and do the Airship Glitch as usual
 
 ![FF6](./screenshots/setzer-airship-glitch-1.png)
@@ -1070,7 +1072,7 @@ Tzen espers
 -   Go to South Figaro, meet Shadow if you haven't before
 -   Cross Mount Koltz, recruit Sabin and beat Vargas
 -   Proceed to the Returner's Hideout and get all treasures
-    -   In this run, Gauntler is preferable since Genji Gloves can be farmed
+    -   In this run, the Gauntlet is preferable since Genji Gloves can be farmed
 
 ![FF6](./screenshots/mt-koltz-to-scenarios-2.png)
 
@@ -1081,7 +1083,7 @@ Tzen espers
 
 Lete River steals
 
--   [ ] Guardian from Pterodon (will have to wait until Veldt)
+-   [ ] Guardian from Pterodon (will have to wait until the Veldt)
 
 ---
 
@@ -1100,9 +1102,9 @@ Lete River steals
 ### Locke's Scenario
 
 -   Choose Locke's scenario second
--   Better to start with Locke because this will allow us to name Celes and prevent her from staying a moogle
--   As Locke, beat up the HeavyArmor for bestiary/veldt purposes
-    -   Additionally, fight the Merchant and Officer at least once
+    -   Locke's scenario will allow us to name Celes and prevent her from staying a moogle
+-   As Locke, beat up the HeavyArmor for bestiary/veldt purposes - or just run away from it if you don't want to risk getting any exp
+    -   Additionally, you could fight the Merchant and Officer if you wanted to, although these won't show up at the Veldt
 -   Be careful when entering the basement floor that holds Celes; the tile that has Celes talk to you will crash the game if you don't have Celes in your party yet
     -   Use the Door Timer Glitch to skip this tile
 
@@ -1113,6 +1115,11 @@ Lete River steals
     -   This means she could always be added back to the party, should the need arise
 -   Be sure to loot all the treasures in the basement
 -   Leave town, enter the cave, beat the Tunnel Armor and finish Locke's scenario
+-   Pro-tip: you _could_ skip the Tunnel Armor for now using the Door Timer Glitch if you're up for some grinding
+    -   Bypassing the Tunnel Armor will allow you to return to Narshe and use the Airship Glitch to take characters to the Veldt for some leveling
+    -   Especially if you're going for a LLG it won't hurt to have especially Terra, Locke and Celes learn as many good spells as possible since these characters are forced characters for a large chunk of the game
+    -   Once you're done, return to the Cave to South Figaro and finish Locke's scenario properly
+    -   Be sure that if you had Gau join you on the Veldt, you have him leap there before leaving again, since Sabin and Cyan need him to join them on the Veldt as well in order to progress through Crescent Mountain
 
 ![FF6](./screenshots/lockes-scenario.png)
 
@@ -1129,7 +1136,8 @@ Cave to South Figaro steals
     -   If you don't have any spare ones left, you can buy these at Gau's Father's house
 -   Avoid picking up Shadow for now
 -   Recruit Cyan and complete the Imperial Base sequence with Sabin
-    -   Be sure to fight every opponent at least once
+    -   Be sure to fight every opponent at least once, as this is a place you can't return to
+        -   The Telstar and Doberman opponents in particular are easily missable
     -   Be sure to pick up all treasures
 -   After the game switches to Cyan, be sure to make a save state right before he enters his bedroom
 -   There's a significant risk of the game softlocking when Cyan is fighting the soldiers solo because of the Door Timer Glitch
@@ -1147,7 +1155,7 @@ Cave to South Figaro steals
 -   This allows us early access back into Doma Castle - otherwise we'd have to wait until the Imperial Banquet
 -   Feel free to loot Doma Castle, although the treasures aren't really anything special
     -   To avoid hardlocking in the inn, put Cyan in the lead when you inspect the room
-    -   Do not enter Cyan's wife's room, or the game will hardlock too
+    -   Do not enter Cyan's wife's room without caution, or the game will hardlock too
     -   In both cases you can precisely time the Door Timer Glitch to bypass the events and check out the rooms for real
     -   Unfortunately, although you will see Cyan lying in bed, you won't be able to enter the Dreamscape right now
 
@@ -1183,10 +1191,13 @@ Imperial Camp steals
 
 ### Bypassing the Phantom Train
 
--   Execute the Airship Glitch
-    -   Unfortunately, this requires completing Sabin's scenario first, otherwise we can't switch to a Locke/Celes party
-        -   So, rush through the Phantom Train and the Veldt / Serpent Trench while avoiding as many encounters as you can
-    -   Afterwards: use the Airship Glitch in three party mode: fly around, swap to another party and die
+-   To bypass the Phantom Forest, we'd need to execute the Airship Glitch once again
+    -   Unfortunately, this requires completing Sabin's scenario first
+    -   The Airship Glitch either requires "three party mode", or at the very least free control over the airship... which is granted after recruiting Setzer in Vector, which we can't do without Locke in the party
+-   So, rush through the Phantom Train and the Veldt / Serpent Trench while avoiding as many encounters as you can
+    -   And avoid saving your game again at all cost, as this would mess up the run!
+-   Eventually you will end up in Narshe where all of the Returners unite
+    -   When you're here, you can finally use the Airship Glitch in three party mode: fly around, swap to another party and die
 
 ![FF6](./screenshots/bypassing-phantom-train.png)
 
@@ -1201,7 +1212,7 @@ Imperial Camp steals
 -   Jump down Barren Falls
     -   If you've done the "Moogle Raid", you won't have to fight the fish again
 -   Recruit Gau as usual
-    -   Can be done immediately if Dried Meat has already been morphed
+    -   This can be done immediately if Dried Meat has already been morphed
 -   If you like, you can get some good rages and learn some spells now
 -   Get Tintabar in Mobliz
 -   Enter Crescent Mountain, but beware of the "!" sign appearing because of the Door Timer Glitch
@@ -1227,12 +1238,12 @@ Imperial Camp steals
     -   And obviously we are going for a perfect score
     -   So make sure you have a strong party, capable of doing the job
 -   Execute the Airship Glitch
-    -   Easiest way is to once again use the three party mode to escape Narshe and trigger a gameover with one group while another group is on the airship
+    -   The easiest way is to once again use the three party mode to escape Narshe and trigger a gameover with one group while another group is on the airship
     -   If leaving Narshe drops you off near Nikeah instead, you can simply use a ship to travel back to South Figaro, and from there to Narshe
 -   In any case, when you're done, head to Vector
     -   Do NOT enter the Magitek Factory again
 -   Instead, enter the palace itself
-    -   Carefully dodge any soldiers and the guardian
+    -   Carefully dodge any soldiers and the Guardian
     -   Use the Door Timer Glitch to bypass the event of the soldier scaring you away
 
 ![FF6](./screenshots/imperial-banquet-1.png)
@@ -1277,7 +1288,7 @@ Imperial Camp steals
 ![FF6](./screenshots/phantom-train-1.png)
 
 -   Be careful, near the end of the Phantom Train there's a tile that would normally make your ghosts leave your party
-    -   Apparently this is programmed so it makes _everyone_ who is not Sabin/Cyan/Shadow leave your party, so be sure to skip the tile using the door timer glitch
+    -   Apparently this is programmed so it makes _everyone_ who is not Sabin/Cyan/Shadow leave your party, so be sure to skip the tile using the Door Timer Glitch
     -   Admittedly, it is somewhat funny and disheartening at the same time to see Locke voluntarily stay behind on the Phantom Train... poor guy
     -   But for this run, we'll assume that you do not want to lose Locke
     -   Oddly enough, even after "leaving" your party, he disappears from the menu, but he is still present in battle
@@ -1285,6 +1296,7 @@ Imperial Camp steals
 ![FF6](./screenshots/phantom-train-2.png)
 
 -   Once you're done with the Phantom Train, you can either walk back to Nikeah, or jump through Barren Falls & The Serpent Trench
+    -   The Serpent Trench might be a better option since this will allow you to pick up any treasures or monster formations you missed before
 -   Either way, take the boat in Nikeah back to South Figaro, and from there, walk to Narshe
 
 ---
@@ -1314,17 +1326,18 @@ Imperial Camp steals
 -   Once you're done, make a party of Terra/Locke/Shadow, and execute the Airship Glitch
 -   Fly to Thamasa and meet both Relm and Strago
     -   After naming them, you can freely use the shops in Thamasa: do so if you're going for a perfect inventory
--   Stay at the inn and watch Thamasa burn
+-   Stay at the inn and watch the scene in which Strago wakes you up
     -   Unfortunately this scene will cause Shadow to leave you again, but we'll get him back soon
 -   Do NOT talk to Strago yet: we don't want to add him to our party yet
     -   Just like with Setzer, we want to savor his recruitment scene for a better time
 -   When you're ready, go back to Narshe
 -   Unfortunately, this requires doing a more elaborate Airship Glitch, since we're stranded on the Thamasa continent
-    1. Use a tent on the world map to see the Floating Continent rising cutscene
-    2. Fly to Vector, enter the Magitek Factory and immediately leave to recruit Setzer and watch the Maduin flashback
-    3. Go to the Floating Continent, travel through it until you're able to jump back on the airship
-    4. Fly around a bit (without recruiting Setzer this wouldn't have been possible)
-    5. Reenter the Floating Continent and die
+    1. First of all, save, and don't save again until the glitch is complete!
+    2. Use a tent on the world map to see the Floating Continent rising cutscene
+    3. Fly to Vector, enter the Magitek Factory and immediately leave to recruit Setzer and watch the Maduin flashback
+    4. You can now use the airship to fly to Narshe and trigger "three party mode", then escape from the snowfields
+    5. Have one party fly around a bit (without recruiting Setzer this wouldn't have been possible)
+    6. And while this party is still airborne, have another party die
 
 ![FF6](./screenshots/thamasa-airship-glitch.png)
 
