@@ -1358,7 +1358,8 @@ Imperial Camp steals
 -   Unlike the times when we only initiated the battle at Narshe to get the Airship Glitch, we're going to play it out normally like this
     -   Defeat all monsters _except_ for Kefka
     -   This will make them appear on the Veldt, and give you more time to play around with teleporting
-    -   You could challenge Kefka once and die, if you want to steal from him
+    -   You may be tempted to challenge Kefka to steal from him and then die, but I'd recommend against it
+        -   While dying in battle won't cause a gameover here, it will reset your coordinates which will cause problems with teleporting out of the snowfields
 -   Once you have cleared the map, let all three of your parties escape the Narshe snowfields
     -   If for some reason your characters don't warp to a proper out of bounds place, try selecting another save and then resetting
 -   All three parties should be near the front gate of Narshe now
@@ -1430,20 +1431,25 @@ Imperial Camp steals
 -   First, walk Celes/Gau out of the cave and head to South Figaro (a non-resetting location)
 -   Walk Terra's party to South Figaro, save on the world map, add Celes to your party and execute the Airship Glitch
 -   Fly Terra's party to Mobliz
+    -   Now that you're here anyway, you could also take some time to teach spells (and lores) to Strago and Relm, if you desire
 -   Switch to Celes' party and walk out of South Figaro
     -   If all went as planned, they should end up at the Veldt
 -   Fight any battle, and have Gau leap
     -   Walk Celes back to Mobliz
--   Use Terra's party to exit and enter Crescent Mountain and the Serpent Trench
+-   Use Terra's party to exit Mobliz and enter Crescent Mountain and the Serpent Trench
     -   Take advantage of this to pick up any treasures or encounters that you haven't already, since it's impossible to get everything in the Serpent Trench in a single visit
--   Walk Terra's party to Phantom Forest (a resetting location)
--   Use Edgar's party to set the exit location back at the Cave to South Figaro, and use this to take Celes' back there
-    -   Afterwards, walk Edgar's party to South Figaro
--   Switch back to Terra's party, leave and reenter Phantom Forest
--   If Edgar leaves South Figaro, he should now also be in the Phantom Forest
-    -   From there, walk to Barren Falls and wait there
--   Walk Terra party to Doma and switch to Celes, who should be at the Cave to South Figaro
-    -   Use this to teleport Terra back to the Cave to South Figaro as well
+-   Have Terra's party leave and quickly reenter Nikeah, so that this is the last entered location
+-   Let Celes leave Mobliz, and she will arrive at Nikeah as well
+    -   Let her wait there for now
+-   Walk Terra's party (or ride a chocobo) to the Phantom Forest (a resetting location)
+-   If Edgar leaves Narshe, he should now also be in the Phantom Forest
+    -   From there, walk Edgar's party to Barren Falls and wait there
+-   Switch to Celes and have her take the boat from Nikeah to South Figaro
+    -   This will _also_ reset your world map location accordingly
+-   From South Figaro, have Celes walk back to the Cave to South Figaro
+-   Have Terra's party walk from the Phantom Forest to Doma Castle
+-   Switch to Celes once more and have her leave/reenter the Cave to South Figaro
+-   When Terra's party leaves Doma Castle, they should now end up at the Cave to South Figaro as well
 -   Walk Terra to South Figaro and save on the world map
 -   Execute the Airship Glitch
 -   Fly Terra's party to the Imperial Base (a resetting location) and wait there
