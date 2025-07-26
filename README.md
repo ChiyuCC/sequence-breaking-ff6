@@ -1358,8 +1358,8 @@ Imperial Camp steals
 -   Unlike the times when we only initiated the battle at Narshe to get the Airship Glitch, we're going to play it out normally like this
     -   Defeat all monsters _except_ for Kefka
     -   This will make them appear on the Veldt, and give you more time to play around with teleporting
-    -   You may be tempted to challenge Kefka to steal from him and then die, but I'd recommend against it
-        -   While dying in battle won't cause a gameover here, it will reset your coordinates which will cause problems with teleporting out of the snowfields
+-   You may be tempted to challenge Kefka to steal from him and then die, but I'd recommend against it
+    -   While dying in battle won't cause a gameover here, it will reset your coordinates which will cause problems with teleporting out of the snowfields
 -   Once you have cleared the map, let all three of your parties escape the Narshe snowfields
     -   If for some reason your characters don't warp to a proper out of bounds place, try selecting another save and then resetting
 -   All three parties should be near the front gate of Narshe now
@@ -1480,18 +1480,22 @@ Imperial Camp steals
 ![FF6](./screenshots/cave-to-the-sealed-gate-3.png)
 
 -   Enter the Cave to the Sealed Gate and proceed as far as the room with the collapsing bridges
-    -   Do NOT move, or you might risk losing the Door Timer Glitch!
+    -   The treasures in this room should have already been looted during the "Moogie Raid 2.0", near the start of this run
+-   Do NOT move, or you might risk losing the Door Timer Glitch!
     -   Swap your lead to Locke
 -   Switch back to Celes and move her to the overworld
 -   Save in slot #1, select slot #2, and reset the game again
     -   Load slot #1 afterwards
 -   You'll now find Locke at the exit of the room, making it safe to proceed
--   Play the Cave of the Sealed Gate until the scene at the Esper gate
+-   You can now play through the rest of the Cave to the Sealed Gate normally
+-   When you encounter the single ninja, be sure to morph some great equipment off of him if you haven't already
+    -   Especially the Striker (for Shadow) and Trump (for Setzer) will be useful to have, since we're going to recruit both characters very soon
+-   Play all the way until the scene with Terra, Kefka and the espers at the Esper gate
 
 ![FF6](./screenshots/cave-to-the-sealed-gate-4.png)
 
 -   Take the shortcut back out
--   When you leave the Cave of the Sealed Gate, you might find yourself back at the Cave to South Figaro
+-   When you leave the Cave to the Sealed Gate, you might find yourself back at the Cave to South Figaro
     -   That is preferable over losing Celes' position, since we can always use the Airship Glitch from this point
     -   Whatever happens, do not trigger the scene at the Imperial Base just yet, as this would make it impossible to recruit Setzer at Vector
 -   Use the Airship Glitch to fly Terra/Locke/Strago/Relm to Vector next
@@ -1510,7 +1514,8 @@ Imperial Camp steals
 -   Switch to Celes and save in slot #2
 -   Switch back to Terra
 -   Enter any building and exit, to see Vector in its normal state again
-    -   Note: this is only possible since we didn't watch the scene of the airship crashing at the Imperial Base, Vector is now sort of "between states"
+    -   Note: this is only possible since we didn't watch the scene of the airship crashing at the Imperial Base
+    -   You could say that Vector is now sort of "between states"
 -   Stand anywhere in Vector, and switch back to Celes
 -   Save in slot #1, highlight slot #2, reset the game and load slot #1
 -   You'll find yourself at the entrance to the Magitek Factory, which is oddly enough blocked off by a white Terra(?)
@@ -1560,9 +1565,9 @@ Imperial Camp steals
     -   The same would have been true for Terra, but since we needed her in party #1 for the Thamasa arc, this doesn't apply here
 -   That effectively means "three party mode" has been reduced to a "two party mode"
 -   On the upside, we can now travel wherever we want with the airship, so we no longer need a permanent party near Narshe/Figaro
--   You'll find that party #1 consists of Terra, Locke, Strago, Relm, Setzer, and probably even more characters
-    -   One time during testing I had Cyan popup, and another time Sabin
+-   You'll find that party #1 consists of Terra, Locke, Strago, Relm, Setzer, and in fact... Edgar, Sabin and Cyan too
     -   Although only four are displayed at the same time, the others are in fact with you in your convoy
+    -   One time during testing I had Cyan popup, and another time Sabin, while playing with the party order
 -   First, park the airship near the Cave to South Figaro, where Celes is waiting for us
     -   Now that we have a functioning airship, we no longer need a party permanently stationed at the Cave to South Figaro
     -   In fact, this can even be harmful for us, making it easy to lose the airship again
