@@ -1506,6 +1506,9 @@ Imperial Camp steals
 
 -   Enter Vector with Terra/Locke/Strago/Relm
 -   You'll find it in its burning state
+-   Whatever you do, do _not_ talk to Sabin who is hanging around here
+    -   If you did, that would, interestingly enough, remove him from Edgar's party menu
+    -   Although he'd still appear in battle alongside Edgar and Cyan
 -   Head to the top right, where the entrance to the Magitek Factory should be
 -   Stand as close to the northern exit as possible
 
@@ -1524,9 +1527,9 @@ Imperial Camp steals
 
 -   Enter the Magitek Factory, which is still in the process of collapsing
 -   When you leave it, you'll end up in a (yet another) different map of Vector: the one with the (aptly named) chasers chasing you, where Setzer is waiting for you
-    -   Keep the party here
+    -   Keep Terra's party here
 -   After talking to Setzer in this map, you'll get a string of cutscenes that eventually will make you acquire both Setzer and the airship, _but_ lose "three party mode" as well
--   Now that we've done three dungeons in a row (the Burning Mansion, the Esper Caves and the Cave to the Sealed Gate), this is a perfect moment to switch to Edgar's party
+-   Now that we've encountered several new monsters in the previous sections (from the Imperial Banquet, the Phantom Train, the Burning Mansion and the Esper Caves), this is a perfect moment to switch to Edgar's party
 -   Edgar, who should still be waiting at Barren Falls, can now safely jump off the waterfall
 -   As a result, Edgar/Sabin/Cyan/Gau will end up at the Veldt, where you can learn magic and rages at your hearts' content
     -   When you're done, have Gau leap
