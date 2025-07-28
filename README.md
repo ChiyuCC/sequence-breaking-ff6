@@ -1980,6 +1980,11 @@ Narshe morphs
 
 ![FF6](./screenshots/yetis-cave.png)
 
+Yeti's Cave treasures
+
+-   [ ] Gauntlet
+-   [ ] X-Ether
+
 Yeti's Cave steals
 
 -   [ ] Minerva from Pugs
@@ -2036,6 +2041,15 @@ Yeti's Cave morphs
     -   That way you can get the Gem Box early as well
 
 ![FF6](./screenshots/fanatics-tower.png)
+
+Fanatics Tower treasures
+
+-   [ ] Safety Bit
+-   [ ] Air Anchor
+-   [ ] Genji Shield
+-   [ ] Stunner
+-   [ ] Force Armor
+-   [ ] Gem Box
 
 18. Zone Eater's Belly: yes
     -   You can get all of the treasures and encounter all of the monsters
