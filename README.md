@@ -313,11 +313,11 @@ Figaro Castle basement steals
 Figaro Castle basement drops
 
 -   [ ] Peace Ring from Neck Hunter
--   [ ] Golden Shield from Dante
+-   [ ] Gold Shield from Dante
 
 Figaro Castle basement morphs
 
--   [ ] Mythril Sword/Helm/Mail from Dropper
+-   [ ] Mythril Sword/Helm/Mail/Heavy Shield from Dropper
 -   [ ] Thunder Shield from Dante
 
 ---
@@ -539,7 +539,7 @@ Thamasa steals
 
 Thamasa drops
 
--   [ ] Golden Armor from Chimera
+-   [ ] Gold Armor from Chimera
 
 Thamasa morphs
 
@@ -1299,6 +1299,10 @@ Imperial Camp steals
     -   The Serpent Trench might be a better option since this will allow you to pick up any treasures or monster formations you missed before
 -   Either way, take the boat in Nikeah back to South Figaro, and from there, walk to Narshe
 
+Phantom Train morphs
+
+-   [ ] Flame Shield from Bomb
+
 ---
 
 ### Shadow in Thamasa
@@ -1365,6 +1369,10 @@ Imperial Camp steals
 -   All three parties should be near the front gate of Narshe now
 
 ![FF6](./screenshots/three-party-mode-2.png)
+
+Narshe Cliffs morphs
+
+-   [ ] Gold Lance/Shield/Helm/Armor from Rider
 
 ---
 
@@ -1796,6 +1804,7 @@ Cave to South Figaro treasures
 Narse Mines treasures
 
 -   [ ] Moogle Charm
+-   [ ] Ribbon
 -   [ ] Elixir
 -   [ ] Pod Bracelet
 
@@ -1947,6 +1956,21 @@ Collapsing House treasures
 
 ![FF6](./screenshots/narshe-tritoch.png)
 
+Narshe steals
+
+-   [ ] Partisan from Test Rider
+-   [ ] Thunder Rod from Wizard
+-   [ ] Ice Rod from Wizard
+
+Narshe drops
+
+-   [ ] Stout Spear from Test Rider
+-   [ ] Flame Rod from Wizard
+
+Narshe morphs
+
+-   [ ] Ice Shield from Test Rider
+
 8. Yeti's Cave: yes
     - You should get Terrato
         - Make sure you don't accidentally recruit Umaro, though
@@ -1955,6 +1979,20 @@ Collapsing House treasures
     - Be sure to stand on this tile (see screenshot) for a fun easter egg when we return to the WoB later
 
 ![FF6](./screenshots/yetis-cave.png)
+
+Yeti's Cave steals
+
+-   [ ] Minerva from Pugs
+
+Yeti's Cave drops
+
+-   [ ] Tintinabar from Pug
+-   [ ] Minerva from Pugs
+
+Yeti's Cave morphs
+
+-   [ ] Imp Armor/Titanium/Tortoise Shield/Imp Halberd from Pug
+-   [ ] Imp Armor/Titanium/Tortoise Shield/Imp Halberd from Pugs
 
 9. Mt. Zozo: no
     - Since we cannot yet buy the rust rid, Mt. Zozo is off-limits to us
