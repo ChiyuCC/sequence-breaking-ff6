@@ -1913,6 +1913,41 @@ Collapsing House treasures
 -   Now that we've taken care of the somewhat "glitchy" parts of the early WoR, there's still a lot more that can be done
 -   First of all, there's a lot of new enemies that can be encountered on the world map for Veldt purposes
 -   Some of these monsters hold useful items that can be stolen, morphed, or received from them as drops
+-   Below are some notable examples of items that can be acquired at the overworld
+
+Overworld steals
+
+-   [ ] Megalixir from EarthGuard (Solitary Island, Southern Continent)
+-   [ ] Poison Claws from Gilomantis (Southern Continent)
+-   [ ] Drainer from Lizard (Serpent Trench)
+-   [ ] Diamond Vest from Buffalax (Serpent Trench)
+-   [ ] Gaia Gear from Latimeria (South Figaro)
+-   [ ] Full Moon from Prussian (Thamasa)
+-   [ ] Tack Star from Reach Frog (South-western Continent, Northern Continent)
+-   [ ] Tortoise Shield from Geckorex (South-western Continent, Northern Continent)
+-   [ ] Imp Halberd from Mantodea (South-western Continent, North-eastern Continent, Northern Continent)
+-   [ ] Titanium from TumbleWeed (North-eastern Continent)
+-   [ ] Imp Armor from Tyranosaur (Dinosaur Forest)
+-   [ ] Ribbon from Brachosaur (Dinosaur Forest)
+
+Overworld drops
+
+-   [ ] Imp Armor from Sprinter (South-western Continent, North-eastern Continent, Northern Continent)
+-   [ ] Tortoise Shield from Geckorex (South-western Continent, Northern Continent)
+-   [ ] Imp Halberd from Tyranosaur (Dinosaur Forest)
+-   [ ] Economizer from Brachosaur (Dinosaur Forest)
+
+Overworld morphs
+
+-   [ ] Exp. Egg from Harpiai (Kohlingen)
+-   [ ] Exp. Egg from Harpy (Thamasa)
+-   [ ] Tintinabar from Spek Tor (South-western Continent, North-eastern Continent, Northern Continent)
+-   [ ] Imp Armor/Titanium/Tortoise Shield/Imp Halberd from Cactrot (South-western Continent)
+
+---
+
+### Sidequests of the early WoR
+
 -   Below is a summary of the main dungeons/sidequests in the WoR, and whether or not you can do them during the Early WoR
 
 1. Solitary Island; Palidor: no
@@ -2034,12 +2069,38 @@ Yeti's Cave morphs
 ![FF6](./screenshots/cave-of-the-veldt-1.png)
 ![FF6](./screenshots/cave-of-the-veldt-2.png)
 
+Cave of the Veldt treasures
+
+-   [ ] Rage Ring
+-   [ ] Striker
+
+Cave of the Veldt steals
+
+-   [ ] Poison Rod from Toe Cutter
+-   [ ] Gold Lance from Rhyos
+-   [ ] Murasame from SrBehemoth (living)
+
+Cave of the Veldt drops
+
+-   [ ] Tiger Fangs from Allo Ver
+-   [ ] Thunder Blade _or_ Jewel Ring from SrBehemoth (living)
+-   [ ] Behemoth Suit from SrBehemoth (undead)
+
+Cave of the Veldt morphs
+
+-   [ ] Ice Shield from Rhyos
+-   [ ] Cursed Ring/Thornlet/Lich Ring from SrBehemoth (undead)
+
 12. Ebot's Rock: yes
     -   If you enter Thamasa with Strago and Relm in your party, you will trigger the scene with Gungho, which will open up Ebot's Rock
     -   Be sure to learn the GrandTrain lore, and if you wish, steal a Thornlet from Hidon as well
 
 ![FF6](./screenshots/ebots-rock-1.png)
 ![FF6](./screenshots/ebots-rock-2.png)
+
+Ebot's Rock steals
+
+-   [ ] Thornlet from Hidon
 
 13. Owzer's Mansion: no
     -   Unfortunately, there's no way to enter Owzer's Mansion since Jidoor's interior maps are still the WoB version
@@ -2071,6 +2132,10 @@ Fanatics Tower treasures
 -   [ ] Stunner
 -   [ ] Force Armor
 -   [ ] Gem Box
+
+Fanatics Tower morphs
+
+-   [ ] Megalixir from Magic Urn
 
 18. Zone Eater's Belly: yes
     -   You can get all of the treasures and encounter all of the monsters
