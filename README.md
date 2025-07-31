@@ -1911,6 +1911,8 @@ Collapsing House treasures
 ### Exploring the early WoR
 
 -   Now that we've taken care of the somewhat "glitchy" parts of the early WoR, there's still a lot more that can be done
+-   First of all, there's a lot of new enemies that can be encountered on the world map for Veldt purposes
+-   Some of these monsters hold useful items that can be stolen, morphed, or received from them as drops
 -   Below is a summary of the main dungeons/sidequests in the WoR, and whether or not you can do them during the Early WoR
 
 1. Solitary Island; Palidor: no
@@ -1932,6 +1934,25 @@ Collapsing House treasures
 
 ![FF6](./screenshots/darills-tomb-1.png)
 ![FF6](./screenshots/darills-tomb-2.png)
+
+Darill's Tomb treasures
+
+-   [ ] Crystal Mail
+-   [ ] Czarina Gown
+-   [ ] Exp. Egg
+-   [ ] Genji Helmet
+-   [ ] Man Eater
+
+Darill's Tomb steals
+
+-   [ ] Amulet from Orog
+-   [ ] Diamond Vest from PowerDemon
+
+Darill's Tomb drops
+
+-   [ ] Amulet from Orog
+-   [ ] Amulet from PowerDemon
+-   [ ] Dragon Claw (x2) from Presenter
 
 5. Doom Gaze: yes
     - Fly around until you encounter him so you can get the Bahamut esper
