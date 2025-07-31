@@ -2140,10 +2140,43 @@ Fanatics Tower morphs
 18. Zone Eater's Belly: yes
     -   You can get all of the treasures and encounter all of the monsters
     -   The monsters here have several stealable/morphable weapons that we can use in the colosseum
-        -   Viper Darts from Covert, Murasame from Ogor, Soul Sabre from Karkass, Hardened from Woolly, SwordBreaker from TapDancr come to mind
+        -   Trump from Covert, Murasame from Ogor, Soul Sabre from Karkass, Hardened from Woolly, SwordBreaker from Tap Dancer come to mind
     -   Just beware that you don't recruit Gogo, as this would lock you out of getting him in the proper WoR
 
 ![FF6](./screenshots/zone-eaters-belly.png)
+
+Zone Eater's Belly treasures
+
+-   [ ] Ether
+-   [ ] Red Jacket
+-   [ ] Genji Armor
+-   [ ] Magical Brsh
+-   [ ] FakeMustache
+-   [ ] Zephyr Cape
+-   [ ] Hero Ring
+-   [ ] Tack Star
+-   [ ] Thunder Shield
+
+Zone Eater's Belly steals
+
+-   [ ] Flail from Wart Puck
+-   [ ] Tack Star from Covert
+-   [ ] Ashura from Ogor
+-   [ ] Murasame from Ogor
+-   [ ] MythrilBlade from Karkass
+-   [ ] Soul Sabre from Karkass
+-   [ ] Dirk from Tap Dancer
+-   [ ] SwordBreaker from Tap Dancer
+-   [ ] Imperial from Woolly
+-   [ ] Hardened from Woolly
+
+Zone Eater's Belly morphs
+
+-   [ ] Striker from Covert
+-   [ ] Trump from Covert
+-   [ ] Assassin from Covert
+-   [ ] Marvel Shoes from Tap Dancer
+-   [ ] Safety Bit from Woolly
 
 19. Phoenix Cave: yes
     -   Feel free to loot the Phoenix Cave, as long as you don't fight the Red Dragon
