@@ -2188,6 +2188,22 @@ Zone Eater's Belly morphs
 ![FF6](./screenshots/phoenix-cave-1.png)
 ![FF6](./screenshots/phoenix-cave-2.png)
 
+Phoenix Cave treasures
+
+-   [ ] Warp Stone x2
+-   [ ] Wing Edge
+-   [ ] Ribbon
+-   [ ] Dragon Horn
+
+Phoenix Cave steals
+
+-   [ ] Economizer from Aquila
+
+Phoenix Cave morphs
+
+-   [ ] Exp. Egg from Aquila
+-   [ ] Safety Bit from Trixter
+
 20. Kefka's Tower: yes
     -   You can pretty much do everything in Kefka's Tower, save for fighting the two dragons
     -   Be sure to steal a Drill from the Fortis enemy: this is in fact the earliest opportunity to get this amazing tool in this run
@@ -2200,6 +2216,24 @@ Zone Eater's Belly morphs
 
 ![FF6](./screenshots/kefkas-tower-1.png)
 ![FF6](./screenshots/kefkas-tower-2.png)
+
+Kefka's Tower treasures
+
+-   [ ] Coronet
+-   [ ] Fixed Dice
+-   [ ] Minerva
+-   [ ] Tack Star
+-   [ ] Force Shield
+-   [ ] Force Armor
+-   [ ] Ribbon
+-   [ ] Red Cap
+-   [ ] Gauntlet
+-   [ ] Nutkin Suit
+-   [ ] Hero Ring
+-   [ ] Aegis Shield
+-   [ ] Megalixir
+-   [ ] Rainbow Brush
+-   [ ] Ribbon (hidden, after Guardian)
 
 21. Dragon's Neck Colosseum: yes
     -   There's quite a few items we can get through the colosseum during the early WoR
