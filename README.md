@@ -2235,6 +2235,63 @@ Kefka's Tower treasures
 -   [ ] Rainbow Brush
 -   [ ] Ribbon (hidden, after Guardian)
 
+Kefka's Tower steals
+
+-   [ ] Masamune from Retainer
+-   [ ] Crystal Sword from Dark Force
+-   [ ] Thunder Shield from Steroidite
+-   [ ] Pod Bracelet from Doom Dragon
+-   [ ] Super Ball from Mover
+-   [ ] Goggles from Madam
+-   [ ] Ninja Star from Vectaur
+-   [ ] Air Anchor from Scullion
+-   [ ] Break Blade from Outsider
+-   [ ] Tack Star from Hemophyte
+-   [ ] Chainsaw from Dueller
+-   [ ] Tiger Fangs from GtBehemoth
+-   [ ] SwordBreaker from Vectagoyle
+-   [ ] Drill from Fortis
+-   [ ] Noiseblaster from Junk
+-   [ ] Bioblaster from Innoc
+-   [ ] Earring from Veteran
+-   [ ] Flash from Sky Base
+-   [ ] AutoCrossbow from IronHitman
+-   [ ] Debilitator from Prometheus
+-   [ ] Ice Shield from Inferno
+-   [ ] Flame Shield from Rough
+-   [ ] Flame Shield from Striker
+-   [ ] Blood Sword / Crystal Orb from Atma
+        I recommend the Crystal Orb, since Blood Swords are much more easily farmable
+-   [ ] Force Armor / Ribbon from Guardian
+        I recommend the Force Armor, since at this point Ribbons are also farmable
+-   [ ] Safety Bit from Doom
+-   [ ] Minerva from Goddess
+-   [ ] Red Jacket from Poltrgeist
+
+Kefka's Tower drops
+
+-   [ ] Magicite from Mover
+-   [ ] Sky Render from Doom
+-   [ ] Excalibur from Goddess
+-   [ ] Aura Lance from Poltrgeist
+
+Kefka's Tower morphs
+
+-   [ ] Genji Glove from Retainer
+-   [ ] Ogre Nix from Steroidite
+-   [ ] Ribbon from Madam
+-   [ ] Gold Lance/Shield/Helm/Armor from Scullion
+-   [ ] Striker from Outsider
+-   [ ] Trump from Outsider
+-   [ ] Assassin from Outsider
+-   [ ] Thunder Shield from Vectagoyle
+-   [ ] Cursed Ring from Didalos
+-   [ ] Thornlet from Didalos
+-   [ ] Relic Ring from Didalos
+-   [ ] Cursed Ring from Veteran
+-   [ ] Thornlet from Veteran
+-   [ ] Relic Ring from Veteran
+
 21. Dragon's Neck Colosseum: yes
     -   There's quite a few items we can get through the colosseum during the early WoR
     -   Here are some suggestions:
