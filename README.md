@@ -2094,6 +2094,12 @@ Cave of the Veldt morphs
 12. Ebot's Rock: yes
     -   If you enter Thamasa with Strago and Relm in your party, you will trigger the scene with Gungho, which will open up Ebot's Rock
     -   Be sure to learn the GrandTrain lore, and if you wish, steal a Thornlet from Hidon as well
+    -   After defeating Hidon once "story-wise", you can find Gungho walking around in Thamasa
+        -   Talking to him has a small chance to make Hidon reappear
+    -   However, thanks to the Door Timer Glitch, there's an even easier way to find multiple Hidons, if you so desire
+    -   From the second time (and onwards) you defeat Hidon, you _won't_ be automatically transported back to Thamasa anymore
+    -   Hidon's sprite, however, will continue despawning and respawning, and talking to him will simply trigger another boss fight
+    -   Not only is this an easy way to farm Thornlets, but it's also a somewhat decent source for AP
 
 ![FF6](./screenshots/ebots-rock-1.png)
 ![FF6](./screenshots/ebots-rock-2.png)
