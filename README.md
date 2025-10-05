@@ -2329,6 +2329,7 @@ Kefka's Tower morphs
     -   Unfortunately, because we've already done "three party mode", we can't have one party be flying while another one dies
     -   Instead, you'll have to do the full Floating Continent route
     -   Since we've buffed ourselves at the early WoR, this should be a breeze however
+    -   On top of that, since we've gotten the Moogle Charm _a lot_ earlier than we normally would, you could also traverse the Floating Continent without bumping into any random encounters whatsoever
 
 ---
 
@@ -2535,7 +2536,7 @@ Kefka's Tower morphs
 -   The game still thinks we're in "three party mode", even though there is only one party
 -   However, the scene with Terra changing to her esper form will crash if not all mandatory characters are present
     -   The exception is Terra herself, who is not required to be a loaded actor during this scene
--   However, even with Cyan, Sabin, Edgar and Gau in the party, we're still missing Locke and Cyan
+-   However, even with Celes, Sabin, Edgar and Gau in the party, we're still missing Locke and Cyan
     -   So if you went to challenge Kefka right now, the game would still freeze during the scene with Terra and Tritoch
 -   As you may remember, Locke, Celes and Cyan are being despawned/respawned near Banon thanks to the Door Timer Glitch
 -   Unequip your characters if they're too strong, and challenge Kefka
