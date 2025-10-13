@@ -2469,6 +2469,7 @@ Kefka's Tower morphs
 ![FF6](./screenshots/lola-maranda-2.png)
 
 -   Afterwards, head to Jidoor
+    -   Be sure to drop by the Auction House and grab that extra Hero Ring, now that you're here anyway
 -   Explore Owzer's Mansion if you want, as long as you don't approach Relm/Chadarnook
     -   If you recruit Relm right now you'll lose her, just like with Setzer!
 -   The real reason we're here is to extract the Door Timer Glitch
