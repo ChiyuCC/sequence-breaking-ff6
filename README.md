@@ -2569,7 +2569,7 @@ Kefka's Tower morphs
     -   Then you can simply head to Figaro Castle and choose to "Go to Kohlingen?"
     -   This will take you back to Kohlingen in the World of Ruin, where you can recruit Setzer, get the Falcon, etc.
 -   Before doing that, let's take a moment to evaluate where what we can do while we are still in the "late WoB"
--   As we've discovered, watching the Floating Continent rising cutscene, dying against a rat in the Opera House, or as escaping Figaro Castle, will return you to the WoB
+-   As we've discovered, watching the Floating Continent rising cutscene, dying against a rat in the Opera House, or escaping Figaro Castle on chocobo, will return you to the WoB
 -   However, although it looks like the World of Balance, most locations will point to their counterparts in the World of Ruin
     -   You could say it's the opposite of the "early WoR" glitch we used earlier
 -   First, I recommend making a party that includes Locke, Edgar, Sabin and one party member of your choice
@@ -2600,8 +2600,10 @@ Kefka's Tower morphs
 
 ### Acquiring the Falcon
 
--   Changing party members in Narshe isn't ideal: most of the time, Celes and Locke will force themselves into your party
-    -   However, this doesn't happen _every_ time, but I haven't figured out yet how we can bypass this
+-   Changing party members in Narshe isn't ideal: occassionally, Celes and Locke will force themselves into your party
+    -   This happens everytime when you talk to any character _but_ Celes or Locke in order to change your party
+-   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis' house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
+    -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
     -   So it's fine if Locke tags along
 -   Go to Figaro Castle and and ask to "Go to Kohlingen?"
