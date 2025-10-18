@@ -2605,11 +2605,12 @@ Kefka's Tower morphs
 -   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis' house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
     -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
-    -   So it's fine if Locke tags along
+    -   So it's fine if Locke, or whichever other character, tags along
 -   Go to Figaro Castle and and ask to "Go to Kohlingen?"
 -   This will bring you to the Kohlingen area in the the World of Ruin
 -   Recruit Setzer in Kohlingen like you normally would
--   If you want, you _could_ make a small detour head to the Colosseum to recruit Shadow, although you can't directly add him to your party right now
+-   If you want, you _could_ make a small detour head to the Colosseum to recruit Shadow
+    -   If there's still an empty slot available (after recruiting Setzer), you can even directly add him to your party if you want to!
 
 ![FF6](./screenshots/shadow-colosseum.png)
 
