@@ -2609,7 +2609,7 @@ Kefka's Tower morphs
 -   Go to Figaro Castle and and ask to "Go to Kohlingen?"
 -   This will bring you to the Kohlingen area in the the World of Ruin
 -   Recruit Setzer in Kohlingen like you normally would
--   If you want, you _could_ make a small detour head to the Colosseum to recruit Shadow
+-   If you want, you _could_ make a small detour and head to the Colosseum to recruit Shadow
     -   If there's still an empty slot available (after recruiting Setzer), you can even directly add him to your party if you want to!
 
 ![FF6](./screenshots/shadow-colosseum.png)
