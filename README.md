@@ -2587,7 +2587,7 @@ Kefka's Tower morphs
 ![FF6](./screenshots/unlocking-cave-to-south-figaro.png)
 ![FF6](./screenshots/edgar-sabin-flashback.png)
 
--   Now that we've completed the "Kefka at Narshe" sequence, we no longer need to worry about character being removed
+-   Now that we've completed the "Kefka at Narshe" sequence, we no longer need to worry about characters being removed
     -   As you may recall, finishing the Kefka at Narshe event would have removed anyone except for these 6 characters
 -   That means we can now safely recruit Mog, and Umaro, who are both available right now in Narshe
     -   You can also fight the Ice Dragon: now that the catastrophe has happened, the "dragon counter" is properly initialized
