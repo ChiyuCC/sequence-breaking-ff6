@@ -2489,9 +2489,20 @@ Kefka's Tower morphs
 -   Until you acquire the Falcon, the Opera House still has rats available at the rafters (if you left at least one alive, that is)
 -   Die against one of the rats
     -   You'll find yourself back in the WoB!
+-   Now, save at the world map - we're going to do a (slightly longer) Airship Glitch now
 -   Immediately head back in the Opera House and finish the opera sequence
     -   That means: pick up Ultros' letter, talk to the Impressario, go to the rafters and defeat Ultros
 -   This should make Setzer appear and give you access to the Blackjack once more
+-   Make sure you do **not** save again after encountering Setzer across the Blackjack
+-   You see, meeting Setzer at the end of the opera sequence actually reinitializes his character
+    -   That means that his equipment and stats are being reset to their defaults, so any stat gains acquired from espers would be lost
+    -   Since we presumably gained some levels in the "early" World of Ruin after getting the band together, we certainly don't want this!
+-   Instead, take this temporary airship to fly back to Figaro Castle
+-   Shuttle the castle to Kohlingen, recruit Setzer and visit Darill's Tomb to get the Falcon officially
+    -   Land the Falcon, board it again, and you will once again get the Floating Continent rising cutscene
+    -   Play through the Floating Continent, return to the airship, fly around a bit, return to the Floating Continent and die
+-   After getting a gameover, you will be aboard the Blackjack just over the Opera House
+    -   Because we never got to the end of the opera sequence, Setzer won't be reset, so it's safe to continue
     -   Once again: the airship will disappear as soon as you land, so be careful!
 
 ![FF6](./screenshots/from-opera-house-to-wob-1.png)
