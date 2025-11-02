@@ -2460,6 +2460,10 @@ Kefka's Tower morphs
 
 -   However, be cautious: this airship will disappear after landing it once, so you only have one shot
 -   Fly to the continent with Zozo, Jidoor, Maranda and the Opera House
+-   We have two reasons for this detour:
+    -   Reacquiring the Door Timer Glitch
+    -   Reactivating the ability to swap party members at Narshe
+    -   ... We'll need both of these in a little while
 -   While you're here, you can (optionally) head into Maranda and talk to Lola
     -   Send her letter and watch the pigeon fly to Zozo
     -   This will make the Rust-Rid available for purchase there, saving you some backtracking
@@ -2486,14 +2490,16 @@ Kefka's Tower morphs
 -   You will now have the chance to form a party out of a few select members
 -   Make a party that consists of Edgar, Locke (mandatory) and Celes (mandatory)
 -   Head to the Opera House
+-   Now, save at the world map - we're going to do a (slightly longer) Airship Glitch now
 -   Until you acquire the Falcon, the Opera House still has rats available at the rafters (if you left at least one alive, that is)
 -   Die against one of the rats
     -   You'll find yourself back in the WoB!
--   Now, save at the world map - we're going to do a (slightly longer) Airship Glitch now
+-   Do **not** save after dying against any rats
+    -   Leaving the Opera House in an incomplete state will prevent you from fighting the Dirt Dragon, and thus acquiring Crusader, later in the game
 -   Immediately head back in the Opera House and finish the opera sequence
     -   That means: pick up Ultros' letter, talk to the Impressario, go to the rafters and defeat Ultros
 -   This should make Setzer appear and give you access to the Blackjack once more
--   Make sure you do **not** save again after encountering Setzer across the Blackjack
+-   Make sure you do **not** save again after encountering Setzer across the Blackjack either
 -   You see, meeting Setzer at the end of the opera sequence actually reinitializes his character
     -   That means that his equipment and stats are being reset to their defaults, so any stat gains acquired from espers would be lost
     -   Since we presumably gained some levels in the "early" World of Ruin after getting the band together, we certainly don't want this!
@@ -2501,12 +2507,36 @@ Kefka's Tower morphs
 -   Shuttle the castle to Kohlingen, recruit Setzer and visit Darill's Tomb to get the Falcon officially
     -   Land the Falcon, board it again, and you will once again get the Floating Continent rising cutscene
     -   Play through the Floating Continent, return to the airship, fly around a bit, return to the Floating Continent and die
--   After getting a gameover, you will be aboard the Blackjack just over the Opera House
+-   After getting a gameover, you will be aboard the Blackjack just over the Opera House in the WoR
     -   Because we never got to the end of the opera sequence, Setzer won't be reset, so it's safe to continue
     -   Once again: the airship will disappear as soon as you land, so be careful!
 
 ![FF6](./screenshots/from-opera-house-to-wob-1.png)
 ![FF6](./screenshots/from-opera-house-to-wob-2.png)
+
+---
+
+### Getting Gau back
+
+-   Remember, we're on a path to get Locke back in the WoR, despite us already having completed the Phoenix Cave
+-   The secret lies in defeating Kefka at Narshe; an important event we never truly completed earlier in this playthrough
+-   There are two complications that need to be solved first though:
+    1. Kefka does not appear in "WoR Narshe", only in "WoB Narshe"
+    2. You need at least Edgar, Sabin and Gau in your active party, otherwise the game will crash
+-   Fly to Figaro Castle and make sure Edgar is in your lead
+-   Talk to Locke in Figaro Castle, who should still be there from a skipped event of the beginning of the game
+-   Talking to Locke will remove Edgar, and add Terra to your party
+-   Put Terra in the leader, follow Locke, and talk to him
+-   You will wake up as Edgar and find that Kefka has put Figaro Castle on fire!
+-   Talk to Kefka, and then talk to the guard in front of the door
+    -   Be sure to keep an eye on the Door Timer Glitch: the game will freeze if you talk to the guard if Kefka's sprite has despawned
+-   This will trigger the cutscene with Terra, Locke and Edgar escaping Figaro Castle and Figaro Castle submerging
+
+![FF6](./screenshots/figaro-castle-escape-1.png)
+![FF6](./screenshots/figaro-castle-escape-2.png)
+![FF6](./screenshots/figaro-castle-escape-3.png)
+
+-   You will now once again be back on the WoB overworld, this time riding a chocobo
 
 ---
 
@@ -2521,21 +2551,6 @@ Kefka's Tower morphs
 ![FF6](./screenshots/recruiting-gau-2.png)
 ![FF6](./screenshots/recruiting-gau-3.png)
 
--   Walk to Figaro Castle and make sure Edgar is in your lead
-    -   This is why you had to make sure to save your game with Figaro Castle still being at the South Figaro side
--   Talk to Locke in Figaro Castle, who should still be there from a skipped event of the beginning of the game
--   Talking to Locke will remove Edgar, and add Terra to your party
--   Put Terra in the leader, follow Locke, and talk to him
--   You will wake up as Edgar and find that Kefka has put Figaro Castle on fire!
--   Talk to Kefka, and then talk to the guard in front of the door
-    -   Be sure to keep an eye on the Door Timer Glitch: the game will freeze if you talk to the guard if Kefka's sprite has despawned
--   This will trigger the cutscene with Terra, Locke and Edgar escaping Figaro Castle and Figaro Castle submerging
-
-![FF6](./screenshots/figaro-castle-escape-1.png)
-![FF6](./screenshots/figaro-castle-escape-2.png)
-![FF6](./screenshots/figaro-castle-escape-3.png)
-
--   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   Ride to Narshe, where you'll find you can change your party in Alvis' house
 -   You can only choose between the characters that we officially recruited since the proper start of the WoR: Celes, Sabin, Edgar and Gau
     -   And Sabin, Edgar and Gau are _precisely_ the characters we need to progress to the next step
