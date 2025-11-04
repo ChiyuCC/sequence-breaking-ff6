@@ -2537,13 +2537,13 @@ Kefka's Tower morphs
 ![FF6](./screenshots/figaro-castle-escape-3.png)
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
-- First of all, ride the chocobo to Narshe
-- Enter Alvis' house in Narshe to change party members
-- Make a party of Celes, Edgar and Locke
-    - Technically Locke isn't required for the upcoming part, but he forces himself into your party anyway
-- We're going to do yet another (slightly long) Airship Glitch
-- Go back to the world map and **save** once more
-    - Be sure to not save again, until explicitly told to
+-   First of all, ride the chocobo to Narshe
+-   Enter Alvis' house in Narshe to change party members
+-   Make a party of Celes, Edgar and Locke
+    -   Technically Locke isn't required for the upcoming part, but he forces himself into your party anyway
+-   We're going to do yet another (slightly long) Airship Glitch
+-   Go back to the world map and **save** once more
+    -   Be sure to not save again, until explicitly told to!
 
 ---
 
