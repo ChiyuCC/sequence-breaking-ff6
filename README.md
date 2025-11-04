@@ -2540,9 +2540,10 @@ Kefka's Tower morphs
 -   First of all, ride the chocobo to Narshe
     -   Now that you're here, you could already grab the Cursed Shield if you want to
     -   Refrain from recruiting Mog or Umaro, as this would make you lose them permanently in a while!
--   Enter Alvis' house in Narshe to change party members
+-   Enter Alvis' house, where you'll be able to change your party members by talking to Cyan
 -   Make a party of Celes and Edgar
     -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
+    -   Depending on what party slots are occupied, he will be able to participate in battles though
     -   Because we need room for Gau (and Setzer later on), there's no room for any other party members
 -   We're going to do yet another (slightly long) Airship Glitch
 -   Go back to the world map and **save** once more
@@ -2560,11 +2561,9 @@ Kefka's Tower morphs
 -   After getting a gameover, you should be aboard the Blackjack in the WoB
     -   Once again, this airship is one time use only, so be careful!
 -   Fly to the Veldt and fight a few battles until Gau rejoins you
-
----
-
-### Kefka at Narshe
-
+-   Now, we'll need to execute the Airship Glitch one last time in order to return to Narshe, where we can finally challenge Kefka
+-   First of all, **save** your game now that your party still consists of Celes, Edgar, Gau, and a semi-invisible Locke
+-   Then, have Gau leap, otherwise we won't have room for Setzer
 -   Afterwards, jump into the Serpent Trench until you end up at Nikeah
 -   From Nikeah you can take a boat to South Figaro
 -   When you leave South Figaro, you'll find yourself at the WoR overworld again
@@ -2573,7 +2572,15 @@ Kefka's Tower morphs
 ![FF6](./screenshots/recruiting-gau-2.png)
 ![FF6](./screenshots/recruiting-gau-3.png)
 
--   Ride to Narshe, where you'll find you can change your party in Alvis' house
+-   From this location you can once again recruit Setzer and get the Falcon
+-   Afterwards, head to the Floating Continent and execute the Airship Glitch, just like the previous time
+-   If everything went well, you'll end up aboard the Blackjack in the WoB again, with Gau still in your party
+
+---
+
+### Kefka at Narshe
+
+-   Fly to Narshe, where you'll find you can change your party in Alvis' house
 -   You can only choose between the characters that we officially recruited since the proper start of the WoR: Celes, Sabin, Edgar and Gau
     -   And Sabin, Edgar and Gau are _precisely_ the characters we need to progress to the next step
 -   With your current party, head up all the way to the Narshe snowfields where Kefka is still waiting for you
