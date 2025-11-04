@@ -2507,7 +2507,7 @@ Kefka's Tower morphs
 -   Shuttle the castle to Kohlingen, recruit Setzer and visit Darill's Tomb to get the Falcon officially
     -   Land the Falcon, board it again, and you will once again get the Floating Continent rising cutscene
     -   Play through the Floating Continent, return to the airship, fly around a bit, return to the Floating Continent and die
--   After getting a gameover, you will be aboard the Blackjack just over the Opera House in the WoR
+-   After getting a gameover, you will be aboard the Falcon just over the Opera House in the WoR
     -   Because we never got to the end of the opera sequence, Setzer won't be reset, so it's safe to continue
     -   Once again: the airship will disappear as soon as you land, so be careful!
 
@@ -2538,18 +2538,33 @@ Kefka's Tower morphs
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   First of all, ride the chocobo to Narshe
+    -   Now that you're here, you could already grab the Cursed Shield if you want to
+    -   Refrain from recruiting Mog or Umaro, as this would make you lose them permanently in a while!
 -   Enter Alvis' house in Narshe to change party members
--   Make a party of Celes, Edgar and Locke
-    -   Technically Locke isn't required for the upcoming part, but he forces himself into your party anyway
+-   Make a party of Celes and Edgar
+    -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
+    -   Because we need room for Gau (and Setzer later on), there's no room for any other party members
 -   We're going to do yet another (slightly long) Airship Glitch
 -   Go back to the world map and **save** once more
     -   Be sure to not save again, until explicitly told to!
+-   To be able to pull of the Airship Glitch, we'll need access to Setzer and the Falcon
+-   Since Figaro Castle is submerged right now, we'll need to take an extra step
+-   Travel through the Cave to South Figaro to, well... South Figaro
+    -   Don't talk to any of the guards standing there yet - you can simply walk through them because of the Door Timer Glitch
+-   Take the ship to Nikeah, and immediately go back
+-   When you leave South Figaro, you should be back in the WoR
+    -   Contrary to what you might expect, Figaro Castle **is** still present here
+-   Use Figaro Castle to shuttle yourselves to the Kohlingen side
+-   Talk to Setzer, acquire the Falcon, land it, and reenter the airship to see the Floating Continent rise again
+-   Play through the Floating Continent, leave the Floating Continent, fly around a bit, go back to the Floating Continent and die
+-   After getting a gameover, you should be aboard the Blackjack in the WoB
+    -   Once again, this airship is one time use only, so be careful!
+-   Fly to the Veldt and fight a few battles until Gau rejoins you
 
 ---
 
 ### Kefka at Narshe
 
--   Fly to the Veldt and fight a few battles until Gau rejoins you
 -   Afterwards, jump into the Serpent Trench until you end up at Nikeah
 -   From Nikeah you can take a boat to South Figaro
 -   When you leave South Figaro, you'll find yourself at the WoR overworld again
