@@ -2508,8 +2508,8 @@ Kefka's Tower morphs
     -   Land the Falcon, board it again, and you will once again get the Floating Continent rising cutscene
     -   Play through the Floating Continent, return to the airship, fly around a bit, return to the Floating Continent and die
 -   After getting a gameover, you will be aboard the Falcon just over the Opera House in the WoR
-    -   Because we never got to the end of the opera sequence, Setzer won't be reset, so it's safe to continue
-    -   Once again: the airship will disappear as soon as you land, so be careful!
+    -   Because our last save was prior to redoing the opera sequence, Setzer won't be reset, so it's safe to continue
+    -   The airship will disappear as soon as you land, so be careful!
 
 ![FF6](./screenshots/from-opera-house-to-wob-1.png)
 ![FF6](./screenshots/from-opera-house-to-wob-2.png)
@@ -2518,7 +2518,7 @@ Kefka's Tower morphs
 
 ### Getting Gau back
 
--   Remember, we're on a path to get Locke back in the WoR, despite us already having completed the Phoenix Cave
+-   We're on a mission to get Locke back in the WoR, despite us already having completed the Phoenix Cave
 -   The secret lies in defeating Kefka at Narshe; an important event we never truly completed earlier in this playthrough
 -   There are two complications that need to be solved first though:
     1. Kefka does not appear in "WoR Narshe", only in "WoB Narshe"
@@ -2545,7 +2545,7 @@ Kefka's Tower morphs
     -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
     -   Depending on what party slots are occupied, he will be able to participate in battles though
     -   Because we need room for Gau (and Setzer later on), there's no room for any other party members
--   We're going to do yet another (slightly long) Airship Glitch
+-   We're going to do yet another (slightly elaborate) Airship Glitch
 -   Go back to the world map and **save** once more
     -   Be sure to not save again, until explicitly told to!
 -   To be able to pull of the Airship Glitch, we'll need access to Setzer and the Falcon
