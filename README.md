@@ -2538,17 +2538,17 @@ Kefka's Tower morphs
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   First of all, ride the chocobo to Narshe
+-   Enter Alvis' house, where you'll be able to change your party members by talking to Cyan
+-   Make a party of Celes and Edgar
+    -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
+    -   Depending on what party slots are occupied, he will be able to participate in battles though
+    -   Because we need room for Gau (and Setzer later on), there's no room for any other party members
 -   Now that the interior maps of Narshe are technically those of the WoR, you can finally nab the Cursed Shield
     -   Have fun transforming it into the Paladin Shield!
 -   Refrain from recruiting Mog or Umaro for now, as this would make you lose them permanently in a while!
 
 ![FF6](./screenshots/cursed-shield.png)
 
--   Enter Alvis' house, where you'll be able to change your party members by talking to Cyan
--   Make a party of Celes and Edgar
-    -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
-    -   Depending on what party slots are occupied, he will be able to participate in battles though
-    -   Because we need room for Gau (and Setzer later on), there's no room for any other party members
 -   We're going to do yet another (slightly elaborate) Airship Glitch
 -   Go back to the world map and **save** once more
     -   Be sure to not save again, until explicitly told to!
@@ -2633,7 +2633,6 @@ Kefka's Tower morphs
     -   You could say it's the opposite of the "early WoR" glitch we used earlier
 -   First, I recommend making a party that includes Locke, Edgar, Sabin and one party member of your choice
 -   Don't forget to pick up the Cursed Shield, if you haven't already
-
 -   With Edgar (and Sabin) in your party, we're going to take care of a few remaining cutscenes in the Figaro area
 -   First, head to the Cave to South Figaro and talk to the guard
     -   This will finally "officially" open up the Cave to South Figaro
