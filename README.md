@@ -2538,8 +2538,12 @@ Kefka's Tower morphs
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   First of all, ride the chocobo to Narshe
-    -   Now that you're here, you could already grab the Cursed Shield if you want to
-    -   Refrain from recruiting Mog or Umaro, as this would make you lose them permanently in a while!
+-   Now that the interior maps of Narshe are technically those of the WoR, you can finally nab the Cursed Shield
+    -   Have fun transforming it into the Paladin Shield!
+-   Refrain from recruiting Mog or Umaro for now, as this would make you lose them permanently in a while!
+
+![FF6](./screenshots/cursed-shield.png)
+
 -   Enter Alvis' house, where you'll be able to change your party members by talking to Cyan
 -   Make a party of Celes and Edgar
     -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
@@ -2628,10 +2632,7 @@ Kefka's Tower morphs
 -   However, although it looks like the World of Balance, most locations will point to their counterparts in the World of Ruin
     -   You could say it's the opposite of the "early WoR" glitch we used earlier
 -   First, I recommend making a party that includes Locke, Edgar, Sabin and one party member of your choice
--   Now that the interior maps of Narshe are technically those of the WoR, you can finally nab the Cursed Shield
-    -   Have fun transforming it into the Paladin Shield!
-
-![FF6](./screenshots/cursed-shield.png)
+-   Don't forget to pick up the Cursed Shield, if you haven't already
 
 -   With Edgar (and Sabin) in your party, we're going to take care of a few remaining cutscenes in the Figaro area
 -   First, head to the Cave to South Figaro and talk to the guard
