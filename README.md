@@ -2774,6 +2774,23 @@ Kefka's Tower morphs
 
 ![FF6](./screenshots/getting-crusader.png)
 
+-   Take note that you can _still_ go to the Floating Continent at this point
+-   Want to see something cool - one final glitch to end this run with?
+-   If you're up for it, return to the Floating Continent with a party of your choice, as long as it doesn't contain Shadow, Umaro or Gogo
+    -   Remember, if you want to breeze through the Floating Continent in a matter of minutes you can just take Mog and his Moogle Charm
+-   As soon as you get the chance, return to the airship
+-   After returning to the airship from the Floating Continent, you'll always end up at the Blackjack - not the Falcon
+    -   After changing your party, or disembarking/embarking once, it will revert to the Falcon though
+-   This presents a rare opportunity to see not only Shadow, but also Umaro and Gogo hanging out in the interior of the Blackjack
+-   It seems like Umaro and Gogo were both given designated spots inside of the Blackjack, even though both of them are normally completely unavailable in the WoB
+    -   Although Gogo is standing still, Umaro is actually walking around freely, whereas on the Falcon he is just standing next to Gogo
+    -   Gogo does look a little off though... it's the same color palette that is also given to him if you have to rescue him in Cyan's dream sequence
+    -   Could this mean that both Umaro and Gogo were planned to be recruitable characters in the WoB, or was this programmed before they even made up their minds about that?
+-   Note that Shadow has some unique dialogue here that can otherwise not be accessed in a normal playthrough
+
+![FF6](./screenshots/blackjack-shadow-umaro-gogo-1.png)
+![FF6](./screenshots/blackjack-shadow-umaro-gogo-2.png)
+
 -   When you're done, you can go to Kefka's Tower and defeat Kefka
 
 ![FF6](./screenshots/defeating-kefka-1.png)
