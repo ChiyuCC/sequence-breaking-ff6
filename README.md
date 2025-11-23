@@ -2782,15 +2782,15 @@ Kefka's Tower morphs
 -   After returning to the airship from the Floating Continent, you'll always end up at the Blackjack - not the Falcon
     -   After changing your party, or disembarking/embarking once, it will revert to the Falcon though
 -   This presents a rare opportunity to see not only Shadow, but also Umaro and Gogo hanging out in the interior of the Blackjack
+
+![FF6](./screenshots/blackjack-shadow-umaro-gogo-1.png)
+![FF6](./screenshots/blackjack-shadow-umaro-gogo-2.png)
+
 -   It seems like Umaro and Gogo were both given designated spots inside of the Blackjack, even though both of them are normally completely unavailable in the WoB
     -   Although Gogo is standing still, Umaro is actually walking around freely, whereas on the Falcon he is just standing next to Gogo
     -   Gogo does look a little off though... it's the same color palette that is also given to him if you have to rescue him in Cyan's dream sequence
     -   Could this mean that both Umaro and Gogo were planned to be recruitable characters in the WoB, or was this programmed before they even made up their minds about that?
 -   Note that Shadow has some unique dialogue here that can otherwise not be accessed in a normal playthrough
-
-![FF6](./screenshots/blackjack-shadow-umaro-gogo-1.png)
-![FF6](./screenshots/blackjack-shadow-umaro-gogo-2.png)
-
 -   When you're done, you can go to Kefka's Tower and defeat Kefka
 
 ![FF6](./screenshots/defeating-kefka-1.png)
