@@ -122,7 +122,7 @@
 
 ![FF6](./screenshots/new-beginnings-1.png)
 
--   After Terra wakes up, leave Arvis' house (front door) and loot Narshe
+-   After Terra wakes up, leave Arvis's house (front door) and loot Narshe
     -   Because of the Door Timer Glitch, several objects will despawn and respawn, including the invisible door that would normally prevent you from leaving
 -   Be sure to buy important items so that Terra, Locke, and Mog have some decent equipment
     -   Don't forget to buy Sprint Shoes either
@@ -136,7 +136,7 @@
 
 Narshe treasures
 
--   [ ] Elixir - in clock, Arvis' house
+-   [ ] Elixir - in clock, Arvis's house
 -   [ ] Elixir - in clock, elder's house
 -   [ ] 5000 GP
 -   [ ] ThiefKnife
@@ -1094,7 +1094,7 @@ Lete River steals
     -   This will remove some of the guards at the entrance of Narshe, which we will need to enter for easier Airship Glitches
 -   Be sure to get any remaining bestiary entries, if necessary
 -   Otherwise, play through Banon's scenario as you normally would
--   Note that Cyan and Sabin are also walking around in Alvis's house, even though they shouldn't be here at this point, story-wise
+-   Note that Cyan and Sabin are also walking around in Arvis's house, even though they shouldn't be here at this point, story-wise
 
 ![FF6](./screenshots/banons-scenario.png)
 
@@ -1407,7 +1407,7 @@ Narshe Cliffs morphs
 -   The reason why we want Terra's party near South Figaro is because South Figaro still has an event that allows you to add Celes to your party
 -   Although we do not want to add her to this party permanently, we can use this to repeatedly add her to the party and do the Airship Glitch
     -   Remember, the cutscene that triggers the Airship Glitch does NOT work if Terra and Celes are in separate parties
-    -   Apparently the "three party mode" considers any members of the other teams are missing/non-existant, which crashes certain cutscenes
+    -   Apparently the "three party mode" considers any members of the other teams are missing/nonexistent, which crashes certain cutscenes
 -   Take note though, that you need Locke as party leader to add Celes, otherwise the game will freeze here
 -   Talk to Celes and execute the Airship Glitch
     -   Remember, because of the three party system we can easily let Edgar's party or Gau (without Celes) die while Terra's party is in the airship
@@ -1570,7 +1570,7 @@ Narshe Cliffs morphs
 ![FF6](./screenshots/recruiting-setzer-3.png)
 ![FF6](./screenshots/recruiting-setzer-4.png)
 
--   Afterwards, you'll have succesfully recruited Setzer
+-   Afterwards, you'll have successfully recruited Setzer
     -   And finally, the airship can finally be operated even after landing it once
     -   But be careful not to lose it in a location you can't easily go back to
 -   Note that all characters, except for Celes, have been removed from party #2 and #3, since they are all present in the scene at Zozo
@@ -2539,7 +2539,7 @@ Kefka's Tower morphs
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   First of all, ride the chocobo to Narshe
--   Enter Alvis's house, where you'll be able to change your party members by talking to Cyan
+-   Enter Arvis's house, where you'll be able to change your party members by talking to Cyan
 -   Make a party of Celes and Edgar
     -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
     -   Depending on what party slots are occupied, he will be able to participate in battles though
@@ -2585,7 +2585,7 @@ Kefka's Tower morphs
 
 ### Kefka at Narshe
 
--   Fly to Narshe, where you'll find you can change your party in Alvis's house
+-   Fly to Narshe, where you'll find you can change your party in Arvis's house
 -   You can only choose between the characters that we officially recruited since the proper start of the WoR: Celes, Sabin, Edgar and Gau
     -   And Sabin, Edgar and Gau are _precisely_ the characters we need to progress to the next step
 -   With your current party, head up all the way to the Narshe snowfields where Kefka is still waiting for you
@@ -2658,7 +2658,7 @@ Kefka's Tower morphs
 
 -   Changing party members in Narshe isn't ideal: occasionally, Celes and Locke will force themselves into your party
     -   This happens every time when you talk to any character _but_ Celes or Locke in order to change your party
--   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis's house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
+-   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Arvis's house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
     -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
     -   So it's fine if Locke, or whichever other character, tags along
