@@ -531,7 +531,7 @@ Mt. Zozo morphs
 -   Later in this run we're going to visit the Magitek Factory for a lot of early espers, where we inevitably have to deal with a couple of bosses
     -   So you might want to save a few Thunder and/or Fire Shields for that occasion as well
     -   You may want to keep some Thunder Shields and/or Flame Shields in stock in case you need to do a "full" Airship Glitch across the IAF and Floating Continent
-    -   Remember, you can freely use these items since they will be restored after a gameover anyway
+    -   Remember, you can freely use these items since they will be restored after a game over anyway
 
 Thamasa steals
 
@@ -630,7 +630,7 @@ Thamasa morphs
 -   Enter the base as Locke and steal some tents from the Commandos
     -   These are quite expensive otherwise
 -   Morph crystal equipment from the ProtoArmors
-    -   These are incredible good for this stage of the game
+    -   These are incredibly good for this stage of the game
 -   We'll assume that Locke does the raiding at this point, but it doesn't matter since there are no encounters coming up
 -   As Locke, walk to Vector and save your coordinates at the railroad track (see screenshot below)
 
@@ -683,7 +683,7 @@ Imperial Base morphs
 
 -   In this chapter we're going to do some setup to save some coordinates that make it possible to bypass both the Imperial Base _and_ a very dangerous floor inside of the cave to the Sealed Gate
 -   For this part we'll assume that you're going with Mog's party but it also works with Locke's
-    -   In an earlier version of this guide I actually took Kushu's party because they have no restrictions when it comes to leveling up
+    -   In an earlier version of this guide, I actually took Kushu's party because they have no restrictions when it comes to leveling up
     -   But I recently realized that missing out on the ability to use "metamorph" is too big of a downside since there's a great opportunity for this in the upcoming dungeon
 -   Be sure you have a lot of smoke bombs, and/or fenix downs and/or revivifies for dealing with the enemies
     -   And make sure you put all your moogles on the back row since they won't last long otherwise
@@ -756,10 +756,10 @@ Imperial Base morphs
 -   They have a great set of items to morph off them, most notably the Striker (for Shadow) and Trump (for Setzer)
     -   This will ensure that both gentlemen can start with a strong, under normal circumstances WoR-only, weapon immediately when we get them
 -   While this single ninja formation _won't_ appear on the Veldt, I found that thanks to the Door Timer Glitch you can actually repeat this fight!
-    -   So be sure to nag as many Strikers, Trumps, or even Assassins as you want before proceeding
+    -   So be sure to nab as many Strikers, Trumps, or even Assassins as you want before proceeding
 -   If you took the sword Ragnarok instead of the esper, and still want to challenge the ninja, take note that Mog's instant KO attacks will work wonders against ninjas too
 -   Be sure to encounter at least the double Zombone group if you're going for a complete Veldt, as these won't appear on any of the other floors
-    -   You won't be able to return to Basement 3 anytime soon, since we can't skip Basement 2 without losing the precious Door Timer, if we're not in "three party mode"
+    -   You won't be able to return to Basement 3 anytime soon, since we can't skip Basement 2 without losing the precious Door Timer if we're not in "three party mode"
 
 ![FF6](./screenshots/raiding-cave-sealed-gate-5.png)
 
@@ -800,7 +800,7 @@ Sealed Cave morphs
 
 -   Now that we're already on the southern continent with two teams, it won't hurt to grab some more items
 -   Encounter all monsters if you like
--   Note that if you're walking around in Vector, you'll spot some magitek armors being piloted by... Terra's?!
+-   Note that if you're walking around in Vector, you'll spot some magitek armors being piloted by... Terras?!
     -   Granted, this makes a little more sense than giving Dadaluma, dogs or pigeons Terra's sprite, but still
 
 ![FF6](./screenshots/terra-magitek-armors.png)
@@ -832,13 +832,13 @@ Southern Continent drops
     -   The reason is that it doesn't actually check for Locke/Kutan in your party until that scene, which would freeze if you lack either character
 -   I discovered that you CAN actually proceed with Locke and Kutan in separate parties, as long as you take them both into the tube room
     -   If Locke is present on the map, while Celes presses the switch that breaks the esper tubes, the cutscene will still play
--   However, the disadvantage of this is that you also have to do the railroad segment with Kutan's party (without Locke), making you miss out on stealing the Tempest
+-   However, the disadvantage of this is that you also have to do the railroad segment with Kutan's party (without Locke), which makes you miss out on stealing the Tempest
     -   If you switch to Locke's party after the cutscene, Cid's sprite will disappear, making you unable to proceed, causing a softlock
 -   With a Locke/Kutan party, you can proceed through the Magitek Factory as you normally would
 -   Make sure to get some Warp Stones if you want to leave the factory midway, as there might be some issues with cranes freezing thanks to the Door Timer Glitch
     -   In particular where you get the Flame Sabre
 -   We've tried our best to avoid any boss battles with the moogle party, but Ifrit/Shiva are exceptions since we want their magicite
-    -   Both of them shouldn't pose a treat if you took the time to steal Ice Rods (for breaking at Ifrit) or Flame Shields (for breaking at Shiva)
+    -   Both of them shouldn't pose a threat if you took the time to steal Ice Rods (for breaking at Ifrit) or Flame Shields (for breaking at Shiva)
     -   As a sidenote... don't you think Ifrit looks a little off here?
 
 ![FF6](./screenshots/raiding-magitek-factory-1.png)
@@ -892,7 +892,7 @@ Magitek Factory drops
 
 ### Escape from the Magitek Factory
 
--   Since we're going for a 100% file with all monsters encounted, we want to make sure to encounter all formations in the mine cart sequence
+-   Since we're going for a 100% file with all monsters encountered, we want to make sure to encounter all formations in the mine cart sequence
 -   If you're struggling with this, I recommend the [Mag Roader Guide](https://gamefaqs.gamespot.com/snes/554041-final-fantasy-iii/faqs/38658) by Novalia_Spirit on GameFAQs
     -   From my experimenting, I can tell that the [moogle placeholders](https://finalfantasy.fandom.com/wiki/Ten_Moogles) go by the same rules as their "human" counterparts (so Cyan = Kupek, etc.)
 -   Enter the tube room and make a save state!
@@ -951,7 +951,7 @@ Mine Cart Ride steals
 
 -   We've done all we can to take advantage of the three party mode with the moogles in the WoB
     -   The rest of the WoB will be completed with actual party members
--   Although it IS possible to raid parts of the WoR too with the moogles, this is unnecessary hard and is better to do when we actually have our actual party members together so we can gain levels etc.
+-   Although it IS possible to raid parts of the WoR too with the moogles, this is unnecessarily hard and is better to do when we actually have our actual party members together so we can gain levels etc.
     -   Plus, exploring the WoR is a lot easier when we have a permanent airship available to us
 -   First, switch to Mog's party at the Cave to South Figaro
 -   Walk to Narshe, head to the save point directly before where Terra fell into the hole
@@ -977,7 +977,7 @@ Tzen espers
 -   However, under normal circumstances, this would mean we end up in the WoR with only Terra, Locke, Edgar, Sabin, Cyan, Celes and Gau
     -   That's why we have to play through a chunk of the WoB now in a specific order to get Setzer, Mog, Strago, Relm, and even Shadow
 -   First order of business is to travel to Figaro Castle as you normally would
-    -   If you didn't yet encounter all monsters or loot al treasures in the Figaro area or Mt. Koltz, this is your chance
+    -   If you didn't yet encounter all monsters or loot all treasures in the Figaro area or Mt. Koltz, this is your chance
     -   Additionally, feel free to steal some more Black Hoods etc. in Figaro Castle now that Terra and Locke should be better equipped
 -   When you're done, unequip Terra & Locke since they will be unavailable for a while
 -   Meet/name Edgar & Sabin, and talk to Edgar again
@@ -996,9 +996,9 @@ Tzen espers
 ### Zozo revisited
 
 -   To continue on with the story, we need Terra & Locke back in the party
--   Even though we could skip through the guard at the Cave to South figaro, the game would lock up at Mt. Koltz
+-   Even though we could skip through the guard at the Cave to South Figaro, the game would lock up at Mt. Koltz
 -   Instead, execute the Airship Glitch
-    -   The easiest way to do this is to save on the overworld as Edgar, then talk to Banon in Narshe to active the three party mode
+    -   The easiest way to do this is to save on the overworld as Edgar, then talk to Banon in Narshe to activate the three party mode
     -   Let a party of Terra/Kutan trigger the floating continent cutscene on the world map
     -   Let any of the other parties die in the Narshe Mines
 
@@ -1045,7 +1045,7 @@ Tzen espers
 ### Returning home
 
 -   After the Opera segment, you'll land back at the Southern Continent
-    -   Complete any unfinished business if there is still
+    -   Complete any unfinished business if there is still any
 -   Save on the world map
 -   We need to get access to the airship again
     -   This time, we don't have access to the three party mode, so we'll have to do some more work
@@ -1065,7 +1065,7 @@ Tzen espers
 
 ### Mt. Koltz / Returner's Hideout / Lete River
 
--   Travel to Arvis' home in Narshe to change party members, back to Terra/Locke/Edgar
+-   Travel to Arvis's home in Narshe to change party members, back to Terra/Locke/Edgar
     -   Changing party members here is possible because we descended the stairs in Zozo, even though there are only a few party members available right now
 
 ![FF6](./screenshots/mt-koltz-to-scenarios-1.png)
@@ -1094,7 +1094,7 @@ Lete River steals
     -   This will remove some of the guards at the entrance of Narshe, which we will need to enter for easier Airship Glitches
 -   Be sure to get any remaining bestiary entries, if necessary
 -   Otherwise, play through Banon's scenario as you normally would
--   Note that Cyan and Sabin are also walking around in Alvis' house, even though they shouldn't be here at this point, storywise
+-   Note that Cyan and Sabin are also walking around in Alvis's house, even though they shouldn't be here at this point, story-wise
 
 ![FF6](./screenshots/banons-scenario.png)
 
@@ -1196,7 +1196,7 @@ Imperial Camp steals
     -   Unfortunately, this requires completing Sabin's scenario first
     -   The Airship Glitch either requires "three party mode", or at the very least free control over the airship... which is granted after recruiting Setzer in Vector, which we can't do without Locke in the party
 -   So, rush through the Phantom Train and the Veldt / Serpent Trench while avoiding as many encounters as you can
-    -   And avoid saving your game again at all cost, as this would mess up the run!
+    -   And avoid saving your game again at all costs, as this would mess up the run!
 -   Eventually you will end up in Narshe where all of the Returners unite
     -   When you're here, you can finally use the Airship Glitch in three party mode: fly around, swap to another party and die
 
@@ -1239,7 +1239,7 @@ Imperial Camp steals
     -   And obviously we are going for a perfect score
     -   So make sure you have a strong party, capable of doing the job
 -   Execute the Airship Glitch
-    -   The easiest way is to once again use the three party mode to escape Narshe and trigger a gameover with one group while another group is on the airship
+    -   The easiest way is to once again use the three party mode to escape Narshe and trigger a game over with one group while another group is on the airship
     -   If leaving Narshe drops you off near Nikeah instead, you can simply use a ship to travel back to South Figaro, and from there to Narshe
 -   In any case, when you're done, head to Vector
     -   Do NOT enter the Magitek Factory again
@@ -1364,7 +1364,7 @@ Phantom Train morphs
     -   Defeat all monsters _except_ for Kefka
     -   This will make them appear on the Veldt, and give you more time to play around with teleporting
 -   You may be tempted to challenge Kefka to steal from him and then die, but I'd recommend against it
-    -   While dying in battle won't cause a gameover here, it will reset your coordinates which will cause problems with teleporting out of the snowfields
+    -   While dying in battle won't cause a game over here, it will reset your coordinates which will cause problems with teleporting out of the snowfields
 -   Once you have cleared the map, let all three of your parties escape the Narshe snowfields
     -   If for some reason your characters don't warp to a proper out of bounds place, try selecting another save and then resetting
 -   All three parties should be near the front gate of Narshe now
@@ -1852,7 +1852,7 @@ Narse Mines treasures
 -   The Collaping House in Tzen is an exception to this rule
     -   When you talk to Sabin, it starts a timer of 6:00, and you _have_ to finish the sidequest to make the timer disappear
     -   While you could use the Door Timer Glitch to leave Tzen, that won't make the timer go away
-    -   If you fail to rescue the kid within 6 minutes, you'll immediately get a gameover
+    -   If you fail to rescue the kid within 6 minutes, you'll immediately get a game over
     -   Finishing the sidequest is no option either: this would recruit Sabin, locking us out of getting him in the real WoR
 -   Fortunately, there _is_ a way to get rid of the timer... which means we can explore the Collapsing House at our leisure without having to finish the sidequest
 -   The truth is, timed events such as these can be overwritten by _another_ timed event, which timer will then take precedence
@@ -2508,7 +2508,7 @@ Kefka's Tower morphs
 -   Shuttle the castle to Kohlingen, recruit Setzer and visit Darill's Tomb to get the Falcon officially
     -   Land the Falcon, board it again, and you will once again get the Floating Continent rising cutscene
     -   Play through the Floating Continent, return to the airship, fly around a bit, return to the Floating Continent and die
--   After getting a gameover, you will be aboard the Falcon just over the Opera House in the WoR
+-   After getting a game over, you will be aboard the Falcon just over the Opera House in the WoR
     -   Because our last save was prior to redoing the opera sequence, Setzer won't be reset, so it's safe to continue
     -   The airship will disappear as soon as you land, so be careful!
 
@@ -2539,7 +2539,7 @@ Kefka's Tower morphs
 
 -   You will now once again be back on the WoB overworld, this time riding a chocobo
 -   First of all, ride the chocobo to Narshe
--   Enter Alvis' house, where you'll be able to change your party members by talking to Cyan
+-   Enter Alvis's house, where you'll be able to change your party members by talking to Cyan
 -   Make a party of Celes and Edgar
     -   Take note that although you can't see him in the menu, Locke will be forced into your party as well
     -   Depending on what party slots are occupied, he will be able to participate in battles though
@@ -2563,7 +2563,7 @@ Kefka's Tower morphs
 -   Use Figaro Castle to shuttle yourselves to the Kohlingen side
 -   Talk to Setzer, acquire the Falcon, land it, and reenter the airship to see the Floating Continent rise again
 -   Play through the Floating Continent, leave the Floating Continent, fly around a bit, go back to the Floating Continent and die
--   After getting a gameover, you should be aboard the Blackjack in the WoB
+-   After getting a game over, you should be aboard the Blackjack in the WoB
     -   Once again, this airship is one time use only, so be careful!
 -   Fly to the Veldt and fight a few battles until Gau rejoins you
 -   Now, we'll need to execute the Airship Glitch one last time in order to return to Narshe, where we can finally challenge Kefka
@@ -2585,7 +2585,7 @@ Kefka's Tower morphs
 
 ### Kefka at Narshe
 
--   Fly to Narshe, where you'll find you can change your party in Alvis' house
+-   Fly to Narshe, where you'll find you can change your party in Alvis's house
 -   You can only choose between the characters that we officially recruited since the proper start of the WoR: Celes, Sabin, Edgar and Gau
     -   And Sabin, Edgar and Gau are _precisely_ the characters we need to progress to the next step
 -   With your current party, head up all the way to the Narshe snowfields where Kefka is still waiting for you
@@ -2658,7 +2658,7 @@ Kefka's Tower morphs
 
 -   Changing party members in Narshe isn't ideal: occasionally, Celes and Locke will force themselves into your party
     -   This happens every time when you talk to any character _but_ Celes or Locke in order to change your party
--   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis' house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
+-   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis's house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
     -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
     -   So it's fine if Locke, or whichever other character, tags along
