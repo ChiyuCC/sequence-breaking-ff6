@@ -15,7 +15,7 @@
     -   It is in fact "relatively" easy to go to the WoR early with a party of Terra, Locke, Edgar, Sabin, Celes, Cyan and Gau
     -   However, we're going to take a very specific route so we can take Setzer, Mog, Strago, Relm and Shadow along with us as well
 -   And for good reasons:
-    -   With Setzer, we can get early access to Darril's Tomb
+    -   With Setzer, we can get early access to Darill's Tomb
     -   With Mog, we can equip the Moogle Charm to raid otherwise difficult dungeons such as the Fanatics Tower and Kefka's Tower
     -   With Strago/Relm, we can get early access to Ebot's Rock
     -   ... and Shadow is just cool
@@ -46,8 +46,8 @@
     - This can be done by cycling through your teams, and at the exact moment the Door Timer Glitch would click, you change the lead of your current party
     - When you cycle back to this party, you'll find that they are now at the (not properly initialized) coordinates of the new lead character
     - This can be done to escape the Kefka at Narshe sequence, which is another trick we'll use several times during this run
-    - I'm probably not doing a great job at explaining this, so I recommend you watch please watch [this part](https://youtu.be/_fx4p2VSq8k?t=393) of Neerm's YouTube video instead
-3. Transfering coordinates between saves
+    - I'm probably not doing a great job at explaining this, so I recommend you watch [this part](https://youtu.be/_fx4p2VSq8k?t=393) of Neerm's YouTube video instead
+3. Transferring coordinates between saves
     - This is another way to warp your character's sprite to another location
     - While it does require you to be in a "three party mode", it does not rely on the Door Timer Glitch
     - When you are in "three party mode", and use one of your parties to save your game, it will save the X- and Y- coordinates of your other two parties
@@ -68,7 +68,7 @@
         - Even with the warping shenanigans to escape Kefka at Narshe (since we need "three party mode"), this should only take ~10 minutes if you know what you're doing
 
 -   Those were the most important glitches that will all be used extensively during this run
--   I'll also list a few of the minor glitches that we're going to use on a few occassions as well, just so you know what cool things to expect
+-   I'll also list a few of the minor glitches that we're going to use on a few occasions as well, just so you know what cool things to expect
 
 5. Rats in the Opera House
     - It is a well known, classic glitch that, if you die against rats in the Opera House in the World of Ruin, you will return to the World of Balance
@@ -101,7 +101,8 @@
     -   The original SNES cartridge, or the emulated version in the Wii Virtual Console, should be fine too
 -   Whatever hardware you end up choosing, be sure that it has save states available!
     -   You're going to need them... a lot
--   I have in fact tried this on both the GBA and iOS versions, and because saving is handled differently in those games, I wasn't able to start a game with the Door Timer Glitch active... this pretty much ending the run right at the start
+-   I have in fact tried this on both the GBA and iOS versions, and because saving is handled differently in those games, I wasn't able to start a game with the Door Timer Glitch active
+    -   ... this pretty much ends the run right at the start
     -   And although I haven't tested it, I'm pretty sure it won't work in the Pixel Remaster version either
 -   If you somehow found a way to make this work on the GBA version in particular, I'd love to hear it!
     -   Trying out all of these sequence breaks on a version with even more content is something that would absolutely make me ecstatic
@@ -115,7 +116,7 @@
 -   Start a new game with the "Door Timer Glitch" active
     -   Please read [this guide by Neerrm](https://docs.google.com/document/d/16D7QRh_G4MydPuYjxhnGaXpfrKeScfNl-Z_W4jIfrwY/edit?tab=t.0) if you're unfamiliar with this glitch
 -   As long as the glitch is active, you'll hear a clicking sound every few seconds
--   It's vital that you listen to this closely: there are some unknown circumstances that seemingly make the glitch to disappear
+-   It's vital that you listen to this closely: there are some unknown circumstances that seemingly make the glitch disappear
     -   If you lose the Door Timer Glitch too early, this run is basically over, so be sure to save (preferably in save states) often
 -   Play normally until battle with Whelk
 
@@ -281,7 +282,7 @@ Mt. Koltz morphs
 -   Go to Figaro castle with Locke's team
 -   Because of the Door Timer Glitch, we can actually bypass the guy who guards the engine room
     -   The timing may require some practice though
--   On more than one occassion (to put it mildly), we're going to visit places a lot earlier than we're supposed to
+-   On more than one occasion (to put it mildly), we're going to visit places a lot earlier than we're supposed to
     -   One of these is, obviously, the Figaro Castle basement / engine room
 -   If you're aiming to get a complete Veldt - and complete Gau - as soon as possible, I recommend meeting all monster formations every time you enter a new area
     -   This will also allow you to more easily steal/morph from the monsters without having to return to a location that may be hard to return to
@@ -508,7 +509,7 @@ Mt. Zozo morphs
 -   Switch to Kushu's party
 -   Talk to Banon to switch to the three party mode, flee from Narshe, and execute the Airship Glitch
 -   You _could_ travel to any location in the WoB, as long as you don't trigger any events that have required characters
--   However, in this state the airship disappears after every use, so you would have to retrigger the Airship Glitch everytime you want to move
+-   However, in this state the airship disappears after every use, so you would have to retrigger the Airship Glitch every time you want to move
 -   This isn't a major problem though, as long as you keep at least one party in Narshe
     -   Or the exit to the Cave of South Figaro, which always puts you on the right spot in the world map too regardless of your last entered location
 -   Which party you use for your moogle raiding is up to you: all three have an advantage
@@ -528,7 +529,7 @@ Mt. Zozo morphs
 -   If you plan on tackling any tough bosses early, you can break Flame Shields against them
     -   These inflict +/- 3400 damage even when used by a low level, generic moogle
 -   Later in this run we're going to visit the Magitek Factory for a lot of early espers, where we inevitably have to deal with a couple of bosses
-    -   So you might want to save a few Thunder and/or Fire Shields for that occassion as well
+    -   So you might want to save a few Thunder and/or Fire Shields for that occasion as well
     -   You may want to keep some Thunder Shields and/or Flame Shields in stock in case you need to do a "full" Airship Glitch across the IAF and Floating Continent
     -   Remember, you can freely use these items since they will be restored after a gameover anyway
 
@@ -566,7 +567,7 @@ Thamasa morphs
 -   Keep the Kushu/Kurin/Kuru/Kamog party at the Cave to South Figaro
 -   Use the Airship Glitch to get both Locke's and Mog's party to Barren Falls
 -   Although we will do the scene with Mog's party, which has Kuku (Sabin) in it, you do need Kupek (Cyan), who is in Locke's party, present at the map
-    -   Otherwise, the scene with hardlock
+    -   Otherwise, the scene will hardlock
 -   Jump down the waterfalls, fight some fish, and earn yourself the Water Rondo early in the game!
 
 ![FF6](./screenshots/water-rondo-barren-falls-1.png)
@@ -613,7 +614,7 @@ Thamasa morphs
     -   Both parties are one member short though, so that's something to keep in mind
         -   Kuru was lost due to the naming of Gau, and Kutan was lost because she moved to Locke's party
     -   Whatever you do, make sure that **only one** party stays at the Cave to South Figaro, or we'll not be able to move the other party away from here at all
-    -   So bring the party you want to take along with you to another location, like Narhse, Figaro Castle or South Figaro
+    -   So bring the party you want to take along with you to another location, like Narshe, Figaro Castle or South Figaro
 -   Save as Locke's party just outside of Narshe and save the game on the world map
 -   Talk to Banon to switch to the three party mode, flee from Narshe, and execute the Airship Glitch
 
@@ -2655,8 +2656,8 @@ Kefka's Tower morphs
 
 ### Acquiring the Falcon
 
--   Changing party members in Narshe isn't ideal: occassionally, Celes and Locke will force themselves into your party
-    -   This happens everytime when you talk to any character _but_ Celes or Locke in order to change your party
+-   Changing party members in Narshe isn't ideal: occasionally, Celes and Locke will force themselves into your party
+    -   This happens every time when you talk to any character _but_ Celes or Locke in order to change your party
 -   As long as you make sure that either Celes _or_ Locke is not in your party - and thus still walking around in Alvis' house - you will be able to freely change between all your party members, possibly including Mog and Umaro at this point
     -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
