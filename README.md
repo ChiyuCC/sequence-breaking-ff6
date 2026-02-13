@@ -580,7 +580,7 @@ Thamasa morphs
     -   Any moogles won't be animated during his this scene, so Gau will be jumping around all by himself, but the scene doesn't crash
 -   Take note that both Barren Falls and the Phantom Forest act as "hard" reset points for warping
 -   If you want a specific party to return to the Narshe/Figaro area, you should move them to Doma Castle or Mobliz first
--   Oddly enough, when you take a peek in Mobliz, you'll find that the dogs and pigeons have been replaced with Terra's
+-   Oddly enough, when you take a peek in Mobliz, you'll find that the dogs and pigeons have been replaced with Terras
     -   They still make their original sound when you try to interact with them, which is even more disturbing
 
 ![FF6](./screenshots/terra-dogs-pigeons.png)
@@ -959,7 +959,7 @@ Mine Cart Ride steals
 -   Head back into the cave to "defend Terra" and defeat the guard leader
     -   You don't necessarily have to do this with Locke, since he reappears on the Veldt anyway (if you want to steal from him)
 -   After the battle with the guard leader is over, Locke will say "Thanks, Moogles! We're in your debt!"
-    -   That comment suddenly takes on a whole new meaning, doesn't it?
+    -   That comment lands very differently now, doesn't it?
 
 ![FF6](./screenshots/finishing-moogle-raid.png)
 
