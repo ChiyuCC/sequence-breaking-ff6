@@ -2612,7 +2612,7 @@ Kefka's Tower morphs
 ![FF6](./screenshots/kefka-at-narshe-4.png)
 ![FF6](./screenshots/kefka-at-narshe-5.png)
 
--   After defeating Kefka, you should be able to progress through the next couple of scene without any locks
+-   After defeating Kefka, you should be able to progress through the next couple of scenes without any locks
 -   The game assumes you should have Locke and Cyan at this point in the game, so it automatically adds them (back) to your roster
     -   And that is how you can get Locke back after the apocalypse, even though we've already done the entire Phoenix Cave!
 
@@ -2628,7 +2628,7 @@ Kefka's Tower morphs
 -   To continue your journey, you should have a party that includes Celes and Edgar, but leaves an empty slot for Setzer
     -   Then you can simply head to Figaro Castle and choose to "Go to Kohlingen?"
     -   This will take you back to Kohlingen in the World of Ruin, where you can recruit Setzer, get the Falcon, etc.
--   Before doing that, let's take a moment to evaluate where what we can do while we are still in the "late WoB"
+-   Before doing that, let's take a moment to evaluate what we can do while we are still in the "late WoB"
 -   As we've discovered, watching the Floating Continent rising cutscene, dying against a rat in the Opera House, or escaping Figaro Castle on chocobo, will return you to the WoB
 -   However, although it looks like the World of Balance, most locations will point to their counterparts in the World of Ruin
     -   You could say it's the opposite of the "early WoR" glitch we used earlier
@@ -2662,8 +2662,8 @@ Kefka's Tower morphs
     -   In other words, once you form a party that contains both Celes _and_ Locke, you will be stuck with them until you can freely change party members aboard the Falcon
 -   To proceed with the story, you need to have Celes and Edgar in your party, and at least one empty slot for Setzer
     -   So it's fine if Locke, or whichever other character, tags along
--   Go to Figaro Castle and and ask to "Go to Kohlingen?"
--   This will bring you to the Kohlingen area in the the World of Ruin
+-   Go to Figaro Castle and ask to "Go to Kohlingen?"
+-   This will bring you to the Kohlingen area in the World of Ruin
 -   Recruit Setzer in Kohlingen like you normally would
 -   If you want, you _could_ make a small detour and head to the Colosseum to recruit Shadow
     -   If there's still an empty slot available (after recruiting Setzer), you can even directly add him to your party if you want to!
@@ -2733,7 +2733,7 @@ Kefka's Tower morphs
 -   There are two easy ways to return to the World of Ruin (permanently)
     1. Shuttling Figaro Castle
     2. The ferry from Nikeah to South Figaro
--   In both cases, you have to be careful you park your airship in a spot that you can reach it from in the World of Ruin
+-   In both cases, you have to be careful to park your airship in a spot that you can reach it from in the World of Ruin
     -   From this point onwards, the Airship Glitch is no longer an option!
 -   For the Figaro Castle route, you can park your airship at the edge of the desert to the right of Figaro Castle in the WoB
     -   This will make the airship appear just above Figaro Castle in the WoR
