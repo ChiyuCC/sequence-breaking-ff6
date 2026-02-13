@@ -1750,7 +1750,7 @@ Jidoor espers
     -   Make sure that Shadow (or whoever you used to save the first coordinates) is your party leader again
 -   Swap to Gau and save in slot #1, then highlight slot #2 and reset the game
 -   When you switch to Shadow's party, he should automatically enter the hidden entrance to the passage that is normally used to infiltrate Figaro Castle in the WoR
--   Walk al the way until the dead end with the turtle in the water
+-   Walk all the way until the dead end with the turtle in the water
 
 ![FF6](./screenshots/from-figaro-castle-to-wor-4.png)
 
@@ -1802,7 +1802,7 @@ Cave to South Figaro treasures
 
 ![FF6](./screenshots/early-moogle-charm-3.png)
 
-Narse Mines treasures
+Narshe Mines treasures
 
 -   [ ] Moogle Charm
 -   [ ] Ribbon
@@ -1849,7 +1849,7 @@ Narse Mines treasures
 
 -   As said before, there are a number of WoR dungeons that we can explore right now, and a couple that are unavailable to us
 -   The dungeons that are available, can mostly be explored without any restrictions
--   The Collaping House in Tzen is an exception to this rule
+-   The Collapsing House in Tzen is an exception to this rule
     -   When you talk to Sabin, it starts a timer of 6:00, and you _have_ to finish the sidequest to make the timer disappear
     -   While you could use the Door Timer Glitch to leave Tzen, that won't make the timer go away
     -   If you fail to rescue the kid within 6 minutes, you'll immediately get a game over
@@ -1882,8 +1882,8 @@ Narse Mines treasures
 -   You can now easily exit Tzen without the risk of triggering an earthquake
 -   Now, hurry and fly over to the Opera House, which the game thinks you haven't finished yet
 -   Talk to the impressario to resume the show, and you'll regain control of Locke at the balcony
--   Go back to the main hall to pick up Ultros letter, and show it to the impressario again
--   After learning about Ultros' evil scheme (again), the Tzen timer is replaced by the Opera House timer
+-   Go back to the main hall to pick up Ultros's letter, and show it to the impressario again
+-   After learning about Ultros's evil scheme (again), the Tzen timer is replaced by the Opera House timer
 -   Finally, you can finish the incomplete state of the Opera House by defeating Ultros again
 -   After Setzer appears, you'll automatically end up inside of the Blackjack again, but this time you can immediately start flying it again
     -   Unlike what happens when you die against one of the rats, you will _not_ be sent back to the World of Balance
@@ -2057,7 +2057,7 @@ Yeti's Cave morphs
 -   [ ] Imp Armor/Titanium/Tortoise Shield/Imp Halberd from Pugs
 
 9. Mt. Zozo: no
-    - Since we cannot yet buy the rust rid, Mt. Zozo is off-limits to us
+    - Since we cannot yet buy the Rust-Rid, Mt. Zozo is off-limits to us
     - However, we've already raided this dungeon before by using teleportation tricks, so that's no problem
 10. Gau's reunion with his father: no
     - You can't activate this scene, as Gau's father's house is still in its WoB state
@@ -2370,7 +2370,7 @@ Kefka's Tower morphs
 
 ### Finishing up the WoB
 
--   Once all the scenes are over, you could optionally return to Thamasa, with Strago still in your pary, for some interesting finds
+-   Once all the scenes are over, you could optionally return to Thamasa, with Strago still in your party, for some interesting finds
 -   First of all, you'll find two Gungho's
     -   One of them will trigger a neat easily missable (WoB) cutscene where Strago and Gungho talk about Hidon
     -   The other one will inform you that Hidon has reappeared in Ebot's Rock - that's nice
@@ -2553,7 +2553,7 @@ Kefka's Tower morphs
 -   We're going to do yet another (slightly elaborate) Airship Glitch
 -   Go back to the world map and **save** once more
     -   Be sure to not save again, until explicitly told to!
--   To be able to pull of the Airship Glitch, we'll need access to Setzer and the Falcon
+-   To be able to pull off the Airship Glitch, we'll need access to Setzer and the Falcon
 -   Since Figaro Castle is submerged right now, we'll need to take an extra step
 -   Travel through the Cave to South Figaro to, well... South Figaro
     -   Don't talk to any of the guards standing there yet - you can simply walk through them because of the Door Timer Glitch
