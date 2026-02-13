@@ -58,7 +58,7 @@
         - I actually made [a short demonstration video](https://www.youtube.com/watch?v=5B9CZ0mjz8Y) about this a year ago, just so you know what I mean
 4. The (faster) Airship Glitch
     - This is a classic: the original version requires you to save _anywhere_, then play normally until the Floating Continent, jump back onto the airship when you get the chance, return to the Floating Continent and then die
-        - Et voila, you'll revert to your last save, with one chance to use the airship to fly anywhere you want!
+        - Et voilà, you'll revert to your last save, with one chance to use the airship to fly anywhere you want!
     - This is hardly practical, but thanks to the Door Timer Glitch there's a much faster way
     - As demonstrated in Neerm's video around [this part](https://youtu.be/_fx4p2VSq8k?t=755), when you use the Door Timer Glitch to interrupt the tent animation, you can immediately trigger the Floating Continent rising cutscene
     - And to make this trick even faster and more applicable: when you're in three party mode, you can simply have one of your parties fly around with the airship (after activating the said cutscene), and then have another of your parties die
